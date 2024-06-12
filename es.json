@@ -1,0 +1,530 @@
+{
+  "translation": {
+    "Common": {
+      "noData": "No hay datos disponibles",
+      "noInternet": "Sin conexión a internet",
+      "noInternetMessage": "Por favor, revise su conexión a internet y vuelva a intentarlo",
+      "retry": "Reintentar",
+      "cancel": "Cancelar",
+      "ok": "Aceptar",
+      "yes": "Sí",
+      "no": "No",
+      "close": "Cerrar",
+      "delete": "Borrar",
+      "edit": "Editar",
+      "save": "Guardar",
+      "update": "Actualizar",
+      "submit": "Enviar",
+      "skip": "Omitir",
+      "next": "Sigue",
+      "back": "Atrás",
+      "done": "Hecho",
+      "reset": "Reiniciar",
+      "email": "correo electrónico",
+      "phone": "teléfono",
+      "code": "Código",
+      "all": "Todos",
+      "members": "Miembros",
+      "select": "Seleccionar",
+      "loading": "Cargando...",
+      "archive": "archivar",
+      "unarchive": "desarchivado",
+      "archived": "archivado",
+      "unarchived": "anarchiavado",
+      "clearAll": "Limpiar todo",
+      "subCommunities": "Subcomunidades",
+      "emailInputTitle": "Correo electrónico",
+      "emailInputPlaceholder": "tu@correo.acme",
+      "phoneInputTitle": "Teléfono",
+      "phoneInputPlaceholder": "8000000000",
+      "passwordInputTitle": "Contraseña",
+      "passwordInputPlaceholder": "Ingrese su contraseña",
+      "registerPasswordInputPlaceholder": "Elija una contraseña",
+      "confirmPasswordInputTitle": "Confirmar contraseña",
+      "confirmPasswordInputPlaceholder": "Confirme su contraseña",
+      "passwordNotMatch": "Las contraseñas no coinciden",
+      "minPassError": "Debe tener al menos 8 caracteres",
+      "validEmailError": "Ingrese una dirección de correo electrónico válida",
+      "validPhoneError": "Ingrese un número de teléfono válido",
+      "passwordSupportedText1": "Debe tener al menos 8 o más caracteres en longitud",
+      "passwordSupportedText2": "Debe incluir letras, números y caracteres especiales",
+      "passwordErrorLowerCase": "Una caracter en minúscula",
+      "passwordErrorNumber": "Un número",
+      "passwordErrorSpecial": "Un carácter especial",
+      "required": "Este campo es obligatorio",
+      "useEmailInstead": "Usar correo electrónico en su lugar",
+      "usePhoneInstead": "Usar teléfono en su lugar",
+      "somethingWentWrong": "Algo salió mal.",
+      "tryAgain": "Por favor, inténtalo de nuevo.",
+      "revoke": "Revocar"
+    },
+    "OnboardingScreen": {
+      "step1": {
+        "title": "Únase a comunidades",
+        "description": "Conectate a todo lo que te importa de una vez"
+      },
+      "step2": {
+        "title": "Reciba actualizaciones",
+        "description": "Coloque sus noticias, encuestas y sondeos en un solo lugar"
+      },
+      "step3": {
+        "title": "Vota por lo que es importa",
+        "description": "Dar retroalimentación para mejorar tus comunidades"
+      }
+    },
+    "WelcomeScreen": {
+      "loginTab": "Iniciar sesión",
+      "registerTab": "Registrarse",
+      "loginForm": {
+        "forgotPassword": "¿Olvidó su contraseña?",
+        "loginButton": "Iniciar sesión",
+        "forgotPassLink": "¿Olvidó su contraseña?"
+      },
+      "registerForm": {
+        "registerButton": "Registrarse",
+        "loginRedirectToast": "Debe iniciar sesión en lugar de registrarse.",
+        "bottomText1": "Su nombre, biografía y foto son públicos. Al continuar, acepta nuestros",
+        "bottomText2": "Condiciones de uso",
+        "bottomText3": "y",
+        "bottomText4": "Política de privacidad"
+      }
+    },
+    "SignUpDetailsScreen": {
+      "title": "Cuéntenos sobre usted",
+      "subTitle": "¿Por qué es esto importante?",
+      "uploadPhotoText": "Sube un logo o foto",
+      "firstNameInputTitle": "Nombre",
+      "firstNameInputPlaceholder": "Ingrese su nombre de pila",
+      "lastNameInputTitle": "Apellido",
+      "lastNameInputPlaceholder": "Ingrese su apellido",
+      "dob": "Fecha de nacimiento",
+      "languageSelectTitle": "Idioma",
+      "languageSelectPlaceholder": "Seleccione su idioma",
+      "genderSelectTitle": "Género",
+      "genderSelectPlaceholder": "Seleccione género (Opcional)",
+      "customGenderInputTitle": "Género personalizado",
+      "customGenderInputPlaceholder": "(ingrese su género..)",
+      "ethnicitySelectTitle": "Etnicidad",
+      "ethnicitySelectPlaceholder": "Seleccione etnicidad (Opcional)",
+      "customEthnicityInputTitle": "Etnicidad personalizada",
+      "customEthnicityInputPlaceholder": "(ingrese su etnicidad..)",
+      "bioInputTitle": "Biografía",
+      "bioInputPlaceholder": "Agregar una biografía es opcional",
+      "addressInputTitle": "Dirección",
+      "addressInputPlaceholder": "(Opcional)",
+      "bioErrorMessage": "Su biografía debe tener menos de 280 caracteres",
+      "importantSheet": {
+        "title": "¿Por qué es esto importante?",
+        "line1": "En OUR, coleccionamos información demográfica como su edad, género, etnicidad y ubicación para ayudarle a representarse a sí mismo.",
+        "line2": "Esta información solo se comparte de forma agregada, lo que significa es que los detalles individuales como la información de contacto nunca se divulgan. Esto permite a los miembros analizar la composición demográfica de una comunidad o una encuesta, sin revelar los nombres de las personas que conforman esa demografía. No vendemos sus datos a anunciantes.",
+        "line3": "Su privacidad y seguridad son nuestras principales prioridades, y prometemos manejar su información personal con cuidado."
+      }
+    },
+    "ResetPasswordScreen": {
+      "sendCodeButton": "Enviar código",
+      "resetPassTitle": "Restablecer su contraseña",
+      "resetPassSubTitle": "Ingrese su correo electrónico y le enviaremos un enlace para restablecer su contraseña",
+      "codeInputTitle": "Código",
+      "codeInputPlaceholder": "Ingrese el código",
+      "toLoginButton": "Iniciar sesión",
+      "resetPassButton": "Restablecer contraseña",
+      "checkEmailTitle": "Revise su correo electrónico",
+      "checkSmsTitle": "Revise su SMS",
+      "checkSubTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su {{fieldType}} ({{username}}) y confírmelo.",
+      "passwordSuccessText": "Restablecimiento de contraseña exitoso, por favor inicie sesión ahora.",
+      "resendCodeButton": "Reenviar código",
+      "resendCountDownTitle": "Reenviar código en:",
+      "doneResettingText": "¿Ha terminado de restablecer?"
+    },
+    "ConfirmOTPScreen": {
+      "title": "Revise su correo electrónico",
+      "subTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su correo electrónico ({{destination}}) e ingrese el código a continuación.",
+      "subTitle2": "Le hemos enviado un código de confirmación. Por favor, revise sus mensajes de texto ({{destination}}) e ingrese el código a continuación.",
+      "codeInputTitle": "",
+      "codeInputPlaceholder": "Ingrese el código aquí",
+      "minLengthError": "El código debe contener al menos 6 caracteres",
+      "confirmButton": "Confirmar correo electrónico"
+    },
+    "ForceUpdateModal": {
+      "title": "Actualmente está en la versión {{currentAppVersion}}.\n Por favor, actualice a la última versión {{configVersion}}.",
+      "actionButton": "Actualizar aplicación"
+    },
+    "HomeFeedScreen": {
+      "headerTitle": "Mis comunidades",
+      "pollAndMembersTitle": {
+        "part1": "Actualmente hay",
+        "part2": "encuestas",
+        "part3": "siendo discutidas por",
+        "part4": "miembros."
+      },
+      "pendingRequests": "solicitudes pendientes",
+      "pendingInvites": "invitaciones pendientes"
+    },
+    "FeedList": {
+      "defaultEmptyMessage": "No hay publicaciones disponibles",
+      "defaultEmptyMessageProfile": "Este usuario puede tener su actividad oculta.",
+      "defaultEmptyMessageCommunity": "El contenido solo es visible para los miembros de la comunidad."
+    },
+    "Post": {
+      "freeFormPlaceholder": "Ingrese su respuesta",
+      "anonToggle": "Anónimo (cambiar)",
+      "publicToggle": "Público (cambiar)",
+      "changeResponseButton": "Cambiar respuesta",
+      "removeResponseButton": "Eliminar respuesta",
+      "closedPollText": "Encuesta cerrada",
+      "timeClosedText": "No puede votar en esta encuesta",
+      "commentsSheetTitle": "Comentarios",
+      "emptyCommentsListMessage": "No hay comentarios para mostrar",
+      "inputCommentPlaceholder": "Escriba un comentario...",
+      "responsesSheetTitle": "Respuestas",
+      "emptyResponsesListMessage": "No hay respuestas para mostrar",
+      "responsesHiddenUsersMessage": {
+        "part1": "usuario ha",
+        "part2": "usuarios han",
+        "part3": "sido ocultados porque eligieron permanecer en el anonimato."
+      }
+    },
+    "NotificationScreen": {
+      "headerTitle": "Notificaciones",
+      "emptyMessage": "No hay notificaciones para mostrar",
+      "markAllAsRead": "Marcar todo como leído",
+      "noInvitesAlert": "¡No tienes invitaciones!"
+    },
+    "SearchScreen": {
+      "searchInputPlaceholder": "Buscar",
+      "searchDropdownTitle": "Búsquedas recientes",
+      "communityTabTitle": "Comunidades",
+      "memberTabTitle": "Miembros",
+      "emptyMessage": "No hay resultados"
+    },
+    "ProfileFeedScreen": {
+      "communitiesLink": "Comunidades"
+    },
+    "ProfileMyCommunitiesScreen": {
+      "title": "Comunidades",
+      "deleteCommunityAlertTitle": "¿Estás seguro?",
+      "deleteCommunityAlertMessage": "Esta acción no se puede deshacer",
+      "deleteCommunityAlertSuccessToast": "¡Has eliminado con éxito!",
+      "emptyListMessage": "No te has unido a ninguna comunidad",
+      "leaveCommunityAlertTitle": "¿Quieres dejar esta comunidad?",
+      "leaveCommunityAlertMessage": "¡Puedes unirte de nuevo cuando quieras!"
+    },
+    "ProfileChangePasswordScreen": {
+      "headerTitle": "Cambiar mi contraseña",
+      "oldPasswordInputTitle": "Contraseña anterior",
+      "oldPasswordInputPlaceholder": "Ingrese su contraseña anterior",
+      "newPasswordInputTitle": "Nueva contraseña",
+      "newPasswordInputPlaceholder": "Ingrese su nueva contraseña",
+      "confirmPasswordInputTitle": "Confirmar contraseña",
+      "confirmPasswordInputPlaceholder": "Repite tu contraseña",
+      "changePasswordButton": "Cambiar contraseña"
+    },
+    "SelectCommunityScreen": {
+      "headerTitle": "Seleccionar comunidades",
+      "subTitle": "También puedes agregar más comunidades más tarde",
+      "topRightButton": "Seleccionar",
+      "noCommunitiesOrRolesMessage": "Debes seleccionar al menos una comunidad y un rol."
+    },
+    "SelectRoleScreen": {
+      "headerTitle": "Selecciona tus roles",
+      "headerTitleInvitedMemberFlow": "Aceptar invitación",
+      "headerTitleReviewRequestFlow": "Solicitudes pendientes",
+      "headerTitleReviewInvitesFlow": "Invitaciones pendientes",
+      "basicJoinRequestToast": "Se ha enviado tu solicitud para unirte",
+      "successfullCommunityJoinToast": "Te has unido con éxito a {{communityName}}",
+      "openRolesJoinedToast": "Te has unido a ${commName} y solicitado los roles {{requestedRoleNames}}",
+      "requestRejectedToast": "Solicitud rechazada",
+      "approveRequestToast": "¡Aprobado con éxito!",
+      "joinCommunityRequestToast": "Su solicitud para unirse {{communityName}}, ha sido enviada",
+      "roleAddedToast": "¡Rol agregado!",
+      "roleRemovedToast": "¡Rol eliminado!",
+      "rolesUpdatedToToast": "Roles actualizados a {{rolesNames}}",
+      "yourInvitationSentToast": "Tu invitación ha sido enviada con éxito",
+      "communityLeft": "Has dejado la comunidad {{communityName}}",
+      "rejectedToast": "¡Rechazado!",
+      "approveButton": "Aprobar",
+      "rejectButton": "Rechazar",
+      "joinButton": "Unirse",
+      "noRolesMessage": "No tiene roles",
+      "roleStatus": {
+        "pending": "Pendiente",
+        "approved": "Aprobado",
+        "rejected": "Rechazado"
+      },
+      "noCommunities": "No communities"
+    },
+    "InterestScreen": {
+      "num1Interest": "Your #1 interest"
+    },
+    "CreateUpdatePostScreen": {
+      "headerTitleNew": "Nueva publicación",
+      "headerTitleDuplicate": "Duplicar publicación",
+      "headerTitlePreview": "Vista previa de la publicación",
+      "headerTitleUpdate": "Actualizar publicación",
+      "headerRightPreviewCTA": "Compartir",
+      "unsavedChangesAlertTitle": "Tienes cambios sin guardar",
+      "unsavedChangesAlertMessage": "Tienes cambios sin guardar. ¿Guardar esta publicación como borrador?",
+      "unsavedChangesAlertDiscard": "¿Estás seguro de que quieres descartar esta publicación?",
+      "noPostContentErrorMessage": "Por favor, selecciona contenido para la publicación",
+      "noSliderTextErrorMessage": "Por favor, agrega texto a todas las opciones del deslizador",
+      "noOptionsErrorMessage": "Por favor, agrega texto a todas las opciones",
+      "noImagesErrorMessage": "Por favor, agrega imágenes para todas las opciones",
+      "noCommunityErrorMessage": "Por favor, selecciona una comunidad",
+      "markdownPlaceholder": "Escribe texto aquí...",
+      "addMediaText": "Agregar medios",
+      "updateMediaText": "Actualizar medios",
+      "selectPostTypeTitle": "Seleccionar tipo de encuesta",
+      "contentToggleText": "Texto",
+      "contentToggleImage": "Imagen",
+      "singleChoicePollTitle": "Encuesta de opción única",
+      "multiChoicePollTitle": "Encuesta de opción múltiple",
+      "rankChoicePollTitle": "Encuesta de selección rango",
+      "freeFormPollTitle": "Respuesta libre",
+      "sliderPollTitle": "Deslizador",
+      "addOptionButton": "Agregar opción",
+      "resetPollButton": "Restablecer encuesta",
+      "freeFormFakeInputPlaceholder": "Responde aquí...",
+      "sliderLeftInputPlaceholder": "Deslizador 1",
+      "sliderRightInputPlaceholder": "Deslizador 2",
+      "allowAnonRespTitle": "Permitir respuestas anónimas",
+      "showMyNameTitle": "Mostrar mi nombre",
+      "allowCommentsTitle": "Permitir comentarios",
+      "sendNotificationsTitle": "Enviar notificaciones",
+      "closesDateTitle": "Cierre",
+      "datePickerClosesTitle": "Cierre",
+      "datePickerClosesSubTitle": "Elige la fecha y hora a continuación. La zona horaria se basa en la configuración de su dispositivo.",
+      "dateTimePlaceholder": "Fecha y hora",
+      "datePickerScheduleTitle": "Programar",
+      "datePickerScheduleSubTitle": "Elige la fecha y hora a continuación. La zona horaria se basa en la configuración de tu dispositivo.",
+      "sectionFABText": "Texto",
+      "sectionFABImage": "Imagen",
+      "sectionFABPoll": "Encuesta",
+      "selectCommunityTitle": "Seleccionar comunidad",
+      "setTime": "Fijar tiempo"
+    },
+    "CratePostRolesScreen": {
+      "headerTitle": "Roles"
+    },
+    "PostScreen": {
+      "headerTitle": "Publicación"
+    },
+    "PostAnalyticsScreen": {
+      "headerTitle": "Analíticas",
+      "displayResultTitle": "Toca un resultado para ver las analíticas",
+      "tabReceived": "Recibido",
+      "tabResults": "Resultados",
+      "noResultsMessage": "Sin resultados"
+    },
+    "UserSettingsScreen": {
+      "headerTitle": "Información personal",
+      "age": "Edad",
+      "genderIdentity": "Identidad de género",
+      "ethnicity": "Etnicidad",
+      "language": "Idioma",
+      "phoneNumber": "Número de teléfono",
+      "address": "Dirección",
+      "notificationPreferences": "Preferencias de notificaciones",
+      "posts": "Publicaciones",
+      "invites": "Invitaciones",
+      "requests": "Solicitudes",
+      "notificationSettings": "Configuraciones de notificaciones",
+      "contactSupportAdvisor": "Contactar asesor de soporte",
+      "signOut": "Cerrar sesión",
+      "deleteAccount": "Eliminar cuenta",
+      "cantUpdateProfileToast": "No pudimos actualizar tu perfil. Algo salió mal."
+    },
+    "CommunityScreen": {
+      "notMemberMessage": "Aún no eres parte de esta comunidad.",
+      "joinCommunityButton": "Unirse a la comunidad",
+      "pendingInvites": "Invitaciones pendientes",
+      "pendingRequests": "Solicitudes pendientes",
+      "latest": "Último"
+    },
+    "CommunityMembersScreen": {
+      "headerTitle": "Miembros",
+      "allMembersTab": "Todos los miembros",
+      "removeMemberToast": "Miembro eliminado con éxito",
+      "emptyMessage": "No hay miembros para mostrar",
+      "removeMemberAlertTitle": "¿Estás seguro?",
+      "removeMemberAlertMessage": "Esta acción no se puede deshacer",
+      "invitedLabel": "Invitado",
+      "connectionRequestLabel": "Solicitud de conexión",
+      "pendingTab": "Pending",
+      "requestsTab": "Requests",
+      "invitesTab": "Invites",
+      "unregInvitesTab": "Unreg. Invites"
+    },
+    "UpdateCommunityScreen": {
+      "headerTitle": "Actualizar comunidad",
+      "uploadPhotoText": "Subir un logotipo o foto"
+    },
+    "ScheduledDraftArchivedScreen": {
+      "deletePostAlertTitle": "¿Estás seguro?",
+      "deletePostAlertMessage": "Esta acción no se puede deshacer",
+      "deletePostAlertSuccessToast": "¡Has eliminado con éxito!",
+      "unarchivePostAlertTitle": "¿Estás seguro?",
+      "unarchivePostAlertMessage": "Puedes archivar la publicación en cualquier momento",
+      "unarchivePostAlertSuccessToast": "¡Has desarchivado con éxito!",
+      "draftEmptyNameLabel": "No hay texto para mostrar como nombre",
+      "draftEmptyContentLabel": "No hay texto para mostrar como contenido",
+      "emptyMessage": "No hay publicaciones {labelKeys}"
+    },
+    "ArchivedPostScreen": {
+      "headerTitle": "Publicaciones archivadas"
+    },
+    "ScheduledPostScreen": {
+      "headerTitle": "Publicaciones programadas"
+    },
+    "DraftPostsScreen": {
+      "headerTitle": "Borradores de publicaciones"
+    },
+    "CommunitySubCommunitiesScreen": {
+      "headerTitle": "Comunidades",
+      "deleteCommunityRolesAlertMessage": "Para eliminar esta comunidad, por favor elimina primero sus roles y subcomunidades"
+    },
+    "CommentSettingSheet": {
+      "title": "Configuración de comentarios",
+      "showCommentLabel": "Mostrar comentario",
+      "hideCommentLabel": "Ocultar comentario"
+    },
+    "CommunitySettingsSheet": {
+      "title": "Configuración de la comunidad",
+      "leftCommunityToast": "Has dejado:",
+      "deleteCommunityToast": "¡Has eliminado la comunidad exitosamente!",
+      "leaveCommunityAlertTitle": "Are you sure?",
+      "deleteCommunityAlertTitle": "Are you sure?",
+      "deleteCommunityAlertMessage": "This action cannot be undone",
+      "getSupportItem": {
+        "title": "Obtener soporte",
+        "description": "¿Preguntas? Contacta a los desarrolladores de la aplicación"
+      },
+      "manageMyRolesItem": {
+        "title": "Administrar mis roles",
+        "description": ""
+      },
+      "leaveCommunityItem": {
+        "title": "Abandonar comunidad",
+        "description": ""
+      },
+      "membersItem": {
+        "title": "Miembros",
+        "description": ""
+      },
+      "inviteMembersItem": {
+        "title": "Invitar miembro",
+        "description": ""
+      },
+      "contactAdminItem": {
+        "title": "Contactar al administrador",
+        "description": "Envía un mensaje al administrador de esta comunidad"
+      },
+      "joinCommunityItem": {
+        "title": "Unirse a la comunidad",
+        "description": ""
+      },
+      "viewScheduledItem": {
+        "title": "Ver publicaciones programadas",
+        "description": ""
+      },
+      "viewArchivedItem": {
+        "title": "Ver publicaciones archivadas",
+        "description": ""
+      },
+      "viewDraftItem": {
+        "title": "Ver borradores de publicaciones",
+        "description": ""
+      },
+      "editCommunityItem": {
+        "title": "Editar perfil de la comunidad",
+        "description": ""
+      },
+      "manageCommunitiesItem": {
+        "title": "Administrar comunidades",
+        "description": "Conectar o eliminar subcomunidades"
+      },
+      "deleteCommunityItem": {
+        "title": "Eliminar comunidad",
+        "description": ""
+      }
+    },
+    "MemberSettingsSheet": {
+      "title": "Configuración de miembro",
+      "updateRoleItem": {
+        "title": "Actualizar rol",
+        "description": ""
+      },
+      "reviewRequestsItem": {
+        "title": "Revisar solicitudes",
+        "description": ""
+      },
+      "viewProfileItem": {
+        "title": "Ver perfil",
+        "description": ""
+      },
+      "removeUserItem": {
+        "title": "Eliminar usuario",
+        "description": ""
+      }
+    },
+    "PhoneCallingCodeSheet": {
+      "title": "Seleccionar código de llamada"
+    },
+    "PostSettingsSheet": {
+      "title": "Configuración de publicación",
+      "deletePostAlertTitle": "¿Estás seguro?",
+      "deletePostAlertMessage": "Puedes deshacerlo en cualquier momento",
+      "deletePostAlertSuccessToast": "¡Has eliminado exitosamente!",
+      "unarchivePostAlertMessage": "Puedes {{action}} la publicación en cualquier momento",
+      "unarchivePostAlertSuccessToast": "¡Has {{action}} exitosamente!",
+      "viewPostItem": {
+        "title": "Ver publicación",
+        "description": ""
+      },
+      "pinPostItem": {
+        "title": "Fijar publicación",
+        "description": ""
+      },
+      "unpinPostItem": {
+        "title": "Desfijar publicación",
+        "description": ""
+      },
+      "editPostItem": {
+        "title": "Editar publicación",
+        "description": ""
+      },
+      "duplicatePostItem": {
+        "title": "Duplicar publicación",
+        "description": ""
+      },
+      "archivePostItem": {
+        "title": "Archivar publicación",
+        "description": "Eliminar esta publicación del feed de la comunidad"
+      },
+      "unarchivePostItem": {
+        "title": "Desarchivar publicación",
+        "description": ""
+      },
+      "deletePostItem": {
+        "title": "Eliminar publicación",
+        "description": ""
+      },
+      "goToCommunityItem": {
+        "title": "Ir a la comunidad",
+        "description": ""
+      }
+    },
+    "UserProfileSheet": {
+      "title": "Ajustes"
+    },
+    "ChangeEmailPhoneScreen": {
+      "enterdifferentEmailPhoneError": "Ingresa un {{type}} diferente.",
+      "emailPhoneUpdatedMessage": "Tu {{type}} ha sido actualizado con éxito.",
+      "emailPhoneAlreadyInuseError": "Este {{type}} ya está en uso. Por favor, intenta con otro."
+    },
+    "ChooseMediaPickerSheet": {
+      "title": "hoose media picker",
+      "camera": "Camera",
+      "gallery": "Gallery"
+    }
+  }
+}

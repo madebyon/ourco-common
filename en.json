@@ -1,0 +1,531 @@
+{
+  "translation": {
+    "Common": {
+      "noData": "No data available",
+      "noInternet": "No internet connection",
+      "noInternetMessage": "Please check your internet connection and try again",
+      "retry": "Retry",
+      "cancel": "Cancel",
+      "ok": "OK",
+      "yes": "Yes",
+      "no": "No",
+      "close": "Close",
+      "delete": "Delete",
+      "edit": "Edit",
+      "save": "Save",
+      "update": "Update",
+      "submit": "Submit",
+      "skip": "Skip",
+      "next": "Next",
+      "back": "Back",
+      "done": "Done",
+      "reset": "Reset",
+      "email": "email",
+      "phone": "phone",
+      "code": "Code",
+      "all": "All",
+      "members": "Members",
+      "select": "Select",
+      "loading": "Loading...",
+      "archive": "archive",
+      "unarchive": "unarchive",
+      "archived": "archived",
+      "anarchived": "unarchived",
+      "clearAll": "Clear All",
+      "subCommunities": "Sub-communities",
+      "emailInputTitle": "Email",
+      "emailInputPlaceholder": "your@email.acme",
+      "phoneInputTitle": "Phone",
+      "phoneInputPlaceholder": "8000000000",
+      "passwordInputTitle": "Password",
+      "passwordInputPlaceholder": "Enter your password",
+      "registerPasswordInputPlaceholder": "Choose a password",
+      "confirmPasswordInputTitle": "Confirm password",
+      "confirmPasswordInputPlaceholder": "Confirm your password",
+      "passwordNotMatch": "The passwords did not match",
+      "minPassError": "Must be at least 8 characters in length",
+      "validEmailError": "Enter a valid email address",
+      "validPhoneError": "Enter a valid phone number",
+      "passwordSupportedText1": "Must contain 8 or more characters ",
+      "passwordSupportedText2": "Must include letters, numbers, and special characters",
+      "passwordErrorLowerCase": "One lowercase character",
+      "passwordErrorNumber": "One number",
+      "passwordErrorSpecial": "One special character",
+      "required": "This field required",
+      "useEmailInstead": "Use email instead",
+      "usePhoneInstead": "Use phone instead",
+      "somethingWentWrong": "Something went wrong.",
+      "tryAgain": "Please try again",
+      "revoke": "Revoke",
+      "subcommunities": "Subcommunities"
+    },
+    "OnboardingScreen": {
+      "step1": {
+        "title": "Join communities",
+        "description": "Connect to everything you care about at once"
+      },
+      "step2": {
+        "title": "Get updates",
+        "description": "Put your news, polls, and surveys in one place"
+      },
+      "step3": {
+        "title": "Vote on what matters",
+        "description": "Give feedback to improve your communities"
+      }
+    },
+    "WelcomeScreen": {
+      "loginTab": "Login",
+      "registerTab": "Register",
+      "loginForm": {
+        "loginButton": "Sign In",
+        "forgotPassLink": "Forgot your password?"
+      },
+      "registerForm": {
+        "registerButton": "Register",
+        "loginRedirectToast": "You need to sign in instead of sign up.",
+        "bottomText1": "Your name, bio, and photo are public. By proceeding you accept our",
+        "bottomText2": "Terms of Use",
+        "bottomText3": "and",
+        "bottomText4": "Privacy Policy"
+      }
+    },
+    "SignUpDetailsScreen": {
+      "title": "Tell us about yourself",
+      "subTitle": "Why is this important?",
+      "uploadPhotoText": "Upload a Logo or Photo",
+      "firstNameInputTitle": "First name",
+      "firstNameInputPlaceholder": "Enter your first name",
+      "lastNameInputTitle": "Last name",
+      "lastNameInputPlaceholder": "Enter your last name",
+      "dob": "Date of birth",
+      "languageSelectTitle": "Language",
+      "languageSelectPlaceholder": "Select your language",
+      "genderSelectTitle": "Gender",
+      "genderSelectPlaceholder": "Select gender (Optional)",
+      "customGenderInputTitle": "Custom Gender",
+      "customGenderInputPlaceholder": "(input your gender..)",
+      "ethnicitySelectTitle": "Ethnicity",
+      "ethnicitySelectPlaceholder": "Select ethnicity (Optional)",
+      "customEthnicityInputTitle": "Custom Ethnicity",
+      "customEthnicityInputPlaceholder": "(input your ethnicity..)",
+      "bioInputTitle": "Bio",
+      "bioInputPlaceholder": "Adding a bio is optional",
+      "addressInputTitle": "Address",
+      "addressInputPlaceholder": "(Optional)",
+      "bioErrorMessage": "Your bio should be less than 280 characters",
+      "importantSheet": {
+        "title": "Why is this important?",
+        "line1": "At OUR, we collect demographic information like your age, gender, ethnicity, and location to help you represent yourself.",
+        "line2": "This information is only shared in aggregate form, meaning that individual details like contact information are never disclosed. This allows members to analyze the demographic breakdown of a community or a poll, without revealing the names of the people who make up that demographic. We do not sell your data to advertisers..",
+        "line3": "Your privacy and security are our top priorities, and we promise to handle your personal information with care."
+      }
+    },
+    "ResetPasswordScreen": {
+      "sendCodeButton": "Send code",
+      "resetPassTitle": "Reset your password",
+      "resetPassSubTitle": "Type in your email and we&apos;ll send you a link to reset your password",
+      "codeInputTitle": "Code",
+      "codeInputPlaceholder": "Enter code",
+      "toLoginButton": "Sign in",
+      "resetPassButton": "Reset password",
+      "checkEmailTitle": "Check your email",
+      "checkSmsTitle": "Check your SMS",
+      "checkSubTitle1": " We&apos;ve sent you a confirmation code. Please check your {{fieldType}} ({{username}}) and confirm it.",
+      "passwordSuccessText": "Password reset successfull, please sign in now.",
+      "resendCodeButton": "Resend code",
+      "resendCountDownTitle": "Resend code in:",
+      "doneResettingText": "Done resetting?"
+    },
+    "ConfirmOTPScreen": {
+      "title": "Check Your Email",
+      "subTitle1": "We've sent you a confirmation code. Please check your email ({{destination}}) and enter the code below.",
+      "subTitle2": " We've sent you a confirmation code. Please check your text messages ({{destination}}) and enter the code below.",
+      "codeInputTitle": "",
+      "codeInputPlaceholder": "Enter code here",
+      "minLengthError": "The code must contain at least 6 character(s)",
+      "confirmButton": "Confirm Email"
+    },
+    "ForceUpdateModal": {
+      "title": "You are currently on version {{currentAppVersion}}.\n Please update to the latest version {{configVersion}}.",
+      "actionButton": "Update App"
+    },
+    "HomeFeedScreen": {
+      "headerTitle": "My Communities",
+      "pollAndMembersTitle": {
+        "part1": "There are currently",
+        "part2": "polls",
+        "part3": "being discussed by ",
+        "part4": "members."
+      },
+      "pendingRequests": "pending requests",
+      "pendingInvites": "pending invites"
+    },
+    "FeedList": {
+      "defaultEmptyMessage": "There are no posts to display",
+      "defaultEmptyMessageProfile": "This user may have their activity hidden.",
+      "defaultEmptyMessageCommunity": "Content is only visible to community members."
+    },
+    "Post": {
+      "freeFormPlaceholder": "Enter your response",
+      "anonToggle": "Anonymous (change)",
+      "publicToggle": "Public (change)",
+      "changeResponseButton": "Change response",
+      "removeResponseButton": "Remove response",
+      "closedPollText": "Poll closed",
+      "timeClosedText": "You cannot vote on this poll",
+      "commentsSheetTitle": "Comments",
+      "emptyCommentsListMessage": "There are no comments to display",
+      "inputCommentPlaceholder": "Write a comment...",
+      "responsesSheetTitle": "Responses",
+      "emptyResponsesListMessage": "There are no responses to display",
+      "responsesHiddenUsersMessage": {
+        "part1": "user has",
+        "part2": "users have",
+        "part3": "been hidden because they chose to remain anonymous."
+      }
+    },
+    "NotificationScreen": {
+      "headerTitle": "Notifications",
+      "emptyMessage": "There are no notifications to display",
+      "markAllAsRead": "Mark all read",
+      "noInvitesAlert": "You have no invites!"
+    },
+    "SearchScreen": {
+      "searchInputPlaceholder": "Search",
+      "searchDropdownTitle": "Recent searches",
+      "communityTabTitle": "Communities",
+      "memberTabTitle": "Members",
+      "emptyMessage": "No results",
+      "searchPlaceholder": "Search"
+    },
+    "ProfileFeedScreen": {
+      "communitiesLink": "Communities"
+    },
+    "ProfileMyCommunitiesScreen": {
+      "title": "Communities",
+      "deleteCommunityAlertTitle": "Are you sure?",
+      "deleteCommunityAlertMessage": "This action cannot be undone",
+      "deleteCommunityAlertSuccessToast": "You have successfully deleted!",
+      "emptyListMessage": "You haven't joined any community",
+      "leaveCommunityAlertTitle": "Do you want to leave this community?",
+      "leaveCommunityAlertMessage": "You can rejoin anytime you want!"
+    },
+    "ProfileChangePasswordScreen": {
+      "headerTitle": "Change my password",
+      "oldPasswordInputTitle": "Old password",
+      "oldPasswordInputPlaceholder": "Enter your old password",
+      "newPasswordInputTitle": "New password",
+      "newPasswordInputPlaceholder": "Enter your new password",
+      "confirmPasswordInputTitle": "Confirm password",
+      "confirmPasswordInputPlaceholder": "Repeat your password",
+      "changePasswordButton": "Change password"
+    },
+    "SelectCommunityScreen": {
+      "headerTitle": "Select communities",
+      "subTitle": "You can add more communities later on, too",
+      "topRightButton": "Select",
+      "noCommunitiesOrRolesMessage": "You must select at least one community and role."
+    },
+    "SelectRoleScreen": {
+      "headerTitle": "Select your roles",
+      "headerTitleInvitedMemberFlow": "Accept invitation",
+      "headerTitleReviewRequestFlow": "Pending Requests",
+      "headerTitleReviewInvitesFlow": "Pending Invites",
+      "basicJoinRequestToast": "Your request to join has been sent",
+      "successfullCommunityJoinToast": "You have successfully joined {{communityName}}",
+      "openRolesJoinedToast": "You have joined {{commName}} and requested {{requestedRoleNames}} role(s)",
+      "requestRejectedToast": "Request rejected",
+      "approveRequestToast": "Successfully approved!",
+      "joinCommunityRequestToast": "Your request to join {{communityName}} has been sent",
+      "roleAddedToast": "Role added!",
+      "roleRemovedToast": "Role removed!",
+      "rolesUpdatedToToast": "Roles updated to {{rolesNames}}",
+      "yourInvitationSentToast": "Your invitation has been successfully sent",
+      "communityLeft": "You left {{communityName}} community",
+      "rejectedToast": "Rejected!",
+      "approveButton": "Approve",
+      "rejectButton": "Reject",
+      "joinButton": "Join",
+      "noRolesMessage": "Has no roles",
+      "roleStatus": {
+        "pending": "Pending",
+        "approved": "Approved",
+        "rejected": "Rejected"
+      },
+      "noCommunities": "No communities"
+    },
+    "InterestScreen": {
+      "num1Interest": "Your #1 interest"
+    },
+    "CreateUpdatePostScreen": {
+      "headerTitleNew": "New Post",
+      "headerTitleDuplicate": "Duplicate Post",
+      "headerTitleUpdate": "Update Post",
+      "headerTitlePreview": "Preview Post",
+      "headerRightPreviewCTA": "Share",
+      "unsavedChangesAlertTitle": "You have unsaved changes",
+      "unsavedChangesAlertMessage": "You have unsaved changes. Save this post to draft?",
+      "unsavedChangesAlertDiscard": "Are you sure you want to discard this post?",
+      "noPostContentErrorMessage": "Please select some post content",
+      "noSliderTextErrorMessage": "Please add text to all slider options",
+      "noOptionsErrorMessage": "Please add text to all options",
+      "noImagesErrorMessage": "Please add images for all options",
+      "noCommunityErrorMessage": "Please select a community",
+      "markdownPlaceholder": "Type text here...",
+      "addMediaText": "Add media",
+      "updateMediaText": "Update media",
+      "selectPostTypeTitle": "Select poll type",
+      "contentToggleText": "Text",
+      "contentToggleImage": "Image",
+      "singleChoicePollTitle": "Single Choice Poll",
+      "multiChoicePollTitle": "Multi-Choice Poll",
+      "rankChoicePollTitle": "Rank Choice Poll",
+      "freeFormPollTitle": "Free-Form Response",
+      "sliderPollTitle": "Slider",
+      "addOptionButton": "Add option",
+      "resetPollButton": "Reset poll",
+      "freeFormFakeInputPlaceholder": "Respond here...",
+      "sliderLeftInputPlaceholder": "Slider 1",
+      "sliderRightInputPlaceholder": "Slider 2",
+      "allowAnonRespTitle": "Allow anonymous responses",
+      "showMyNameTitle": "Show my name",
+      "allowCommentsTitle": "Allow comments",
+      "sendNotificationsTitle": "Send notifications",
+      "closesDateTitle": "Closes",
+      "datePickerClosesTitle": "Closes",
+      "datePickerClosesSubTitle": "Choose the date and time below. Time zone is based on your device's settings.",
+      "dateTimePlaceholder": "Date & Time",
+      "datePickerScheduleTitle": "Schedule",
+      "datePickerScheduleSubTitle": "Choose the date and time below. Time zone is based on your device's settings.",
+      "sectionFABText": "Text",
+      "sectionFABImage": "Image",
+      "sectionFABPoll": "Poll",
+      "selectCommunityTitle": "Select community",
+      "setTime": "Set time"
+    },
+    "CratePostRolesScreen": {
+      "headerTitle": "Roles"
+    },
+    "PostScreen": {
+      "headerTitle": "Post"
+    },
+    "PostAnalyticsScreen": {
+      "headerTitle": "Analytics",
+      "displayResultTitle": "Tap a result for analytics",
+      "tabReceived": "Received",
+      "tabResults": "Results",
+      "noResultsMessage": "No result"
+    },
+    "UserSettingsScreen": {
+      "headerTitle": "Personal Information",
+      "age": "Age",
+      "genderIdentity": "Gender Identity",
+      "ethnicity": "Ethnicity",
+      "language": "Language",
+      "phoneNumber": "Phone number",
+      "address": "Address",
+      "notificationPreferences": "Notification Preferences",
+      "posts": "Posts",
+      "invites": "Invites",
+      "requests": "Requests",
+      "notificationSettings": "Notification Settings",
+      "contactSupportAdvisor": "Contact support advisor",
+      "signOut": "Sign out",
+      "deleteAccount": "Delete account",
+      "cantUpdateProfileToast": "We couldn't update your profile. Something went wrong."
+    },
+    "CommunityScreen": {
+      "notMemberMessage": "You aren't yet part of this community.",
+      "joinCommunityButton": "Join community",
+      "pendingInvites": "Pending invites",
+      "pendingRequests": "Pending requests",
+      "latest": "Latest"
+    },
+    "CommunityMembersScreen": {
+      "headerTitle": "Members",
+      "allMembersTab": "All members",
+      "removeMemberToast": "Member succuessfully removed",
+      "emptyMessage": "There are no members to display",
+      "removeMemberAlertTitle": "Are you sure?",
+      "removeMemberAlertMessage": "This action cannot be undone",
+      "invitedLabel": "Invited",
+      "connectionRequestLabel": "Connection request",
+      "pendingTab": "Pending",
+      "requestsTab": "Requests",
+      "invitesTab": "Invites",
+      "unregInvitesTab": "Unreg. Invites"
+    },
+    "UpdateCommunityScreen": {
+      "headerTitle": "Update community",
+      "uploadPhotoText": "Upload a Logo or Photo"
+    },
+    "ScheduledDraftArchivedScreen": {
+      "deletePostAlertTitle": "Are you sure?",
+      "deletePostAlertMessage": "This action cannot be undone",
+      "deletePostAlertSuccessToast": "You have successfully deleted!",
+      "unarchivePostAlertTitle": "Are you sure?",
+      "unarchivePostAlertMessage": "You can archive the post anytime",
+      "unarchivePostAlertSuccessToast": "You have successfully unarchived!",
+      "draftEmptyNameLabel": "There is no text to display as a name",
+      "draftEmptyContentLabel": "There is no text to display as a content",
+      "emptyMessage": "No {{labelKeys}} posts"
+    },
+    "ArchivedPostScreen": {
+      "headerTitle": "Archived Posts"
+    },
+    "ScheduledPostScreen": {
+      "headerTitle": "Scheduled Posts"
+    },
+    "DraftPostsScreen": {
+      "headerTitle": "Draft Posts"
+    },
+    "CommunitySubCommunitiesScreen": {
+      "headerTitle": "Communities",
+      "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first"
+    },
+    "CommentSettingSheet": {
+      "title": "Comment settings",
+      "showCommentLabel": "Show comment",
+      "hideCommentLabel": "Hide comment"
+    },
+    "CommunitySettingsSheet": {
+      "title": "Community settings",
+      "leftCommunityToast": "You've left:",
+      "deleteCommunityToast": "You have successfully deleted!",
+      "leaveCommunityAlertTitle": "Are you sure?",
+      "deleteCommunityAlertTitle": "Are you sure?",
+      "deleteCommunityAlertMessage": "This action cannot be undone",
+      "getSupportItem": {
+        "title": "Get support",
+        "description": "Questions? Contact app developers"
+      },
+      "manageMyRolesItem": {
+        "title": "Manage my roles",
+        "description": ""
+      },
+      "leaveCommunityItem": {
+        "title": "Leave community",
+        "description": ""
+      },
+      "membersItem": {
+        "title": "Members",
+        "description": ""
+      },
+      "inviteMembersItem": {
+        "title": "Invite Member",
+        "description": ""
+      },
+      "contactAdminItem": {
+        "title": "Contact admin",
+        "description": "Message the admin of this community"
+      },
+      "joinCommunityItem": {
+        "title": "Join community",
+        "description": ""
+      },
+      "viewScheduledItem": {
+        "title": "View scheduled posts",
+        "description": ""
+      },
+      "viewArchivedItem": {
+        "title": "View archived posts",
+        "description": ""
+      },
+      "viewDraftItem": {
+        "title": "View draft posts",
+        "description": ""
+      },
+      "editCommunityItem": {
+        "title": "Edit Community Profile",
+        "description": ""
+      },
+      "manageCommunitiesItem": {
+        "title": "Manage communities",
+        "description": "Connect or remove sub-communities"
+      },
+      "deleteCommunityItem": {
+        "title": "Delete community",
+        "description": ""
+      }
+    },
+    "MemberSettingsSheet": {
+      "title": "Member settings",
+      "updateRoleItem": {
+        "title": "Update role",
+        "description": ""
+      },
+      "reviewRequestsItem": {
+        "title": "Review requests",
+        "description": ""
+      },
+      "viewProfileItem": {
+        "title": "View profile",
+        "description": ""
+      },
+      "removeUserItem": {
+        "title": "Remove user",
+        "description": ""
+      }
+    },
+    "PhoneCallingCodeSheet": {
+      "title": "Select calling code"
+    },
+    "PostSettingsSheet": {
+      "title": "Post settings",
+      "deletePostAlertTitle": "Are you sure?",
+      "deletePostAlertMessage": "You can undone anytime you want",
+      "deletePostAlertSuccessToast": "You have successfully deleted!",
+      "unarchivePostAlertMessage": "You can {{action}} the post anytime",
+      "unarchivePostAlertSuccessToast": "You have successfully {{action}}!",
+      "viewPostItem": {
+        "title": "View post",
+        "description": ""
+      },
+      "pinPostItem": {
+        "title": "Pin post",
+        "description": ""
+      },
+      "unpinPostItem": {
+        "title": "Unpin post",
+        "description": ""
+      },
+      "editPostItem": {
+        "title": "Edit post",
+        "description": ""
+      },
+      "duplicatePostItem": {
+        "title": "Duplicate post",
+        "description": ""
+      },
+      "archivePostItem": {
+        "title": "Archive post",
+        "description": "Remove this post from the community feed"
+      },
+      "unarchivePostItem": {
+        "title": "Unarchive post",
+        "description": ""
+      },
+      "deletePostItem": {
+        "title": "Delete post",
+        "description": ""
+      },
+      "goToCommunityItem": {
+        "title": "Go to community",
+        "description": ""
+      }
+    },
+    "UserProfileSheet": {
+      "title": "Settings"
+    },
+    "ChangeEmailPhoneScreen": {
+      "enterdifferentEmailPhoneError": "Enter a different {{type}}",
+      "emailPhoneUpdatedMessage": "Your {{type}} has been successfully updated",
+      "emailPhoneAlreadyInuseError": "This {{type}} is already in use. Please try another one."
+    },
+    "ChooseMediaPickerSheet": {
+      "title": "choose media picker",
+      "camera": "Camera",
+      "gallery": "Gallery"
+    }
+  }
+}
