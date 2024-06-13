@@ -265,7 +265,7 @@
       "unsavedChangesAlertTitle": "Tienes cambios sin guardar",
       "unsavedChangesAlertMessage": "Tienes cambios sin guardar. ¿Guardar esta publicación como borrador?",
       "unsavedChangesAlertDiscard": "¿Estás seguro de que quieres descartar esta publicación?",
-      "noPostContentErrorMessage": "Por favor, selecciona contenido para la publicación",
+      "noPostContentErrorMessage": "Por favor, añade una sección de texto.",
       "noSliderTextErrorMessage": "Por favor, agrega texto a todas las opciones del deslizador",
       "noOptionsErrorMessage": "Por favor, agrega texto a todas las opciones",
       "noImagesErrorMessage": "Por favor, agrega imágenes para todas las opciones",
