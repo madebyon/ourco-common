@@ -272,6 +272,7 @@
       "noImagesErrorMessage": "Please add images for all options",
       "noCommunityErrorMessage": "Please select a community",
       "markdownPlaceholder": "Type text here...",
+      "typeOptionHere": "Type option here...",
       "addMediaText": "Add media",
       "updateMediaText": "Update media",
       "selectPostTypeTitle": "Select poll type",
