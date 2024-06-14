@@ -266,7 +266,7 @@
       "unsavedChangesAlertTitle": "You have unsaved changes",
       "unsavedChangesAlertMessage": "You have unsaved changes. Save this post to draft?",
       "unsavedChangesAlertDiscard": "Are you sure you want to discard this post?",
-      "noPostContentErrorMessage": "Please select some post content",
+      "noPostContentErrorMessage": "Please add a text section",
       "noSliderTextErrorMessage": "Please add text to all slider options",
       "noOptionsErrorMessage": "Please add text to all options",
       "noImagesErrorMessage": "Please add images for all options",
