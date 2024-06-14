@@ -283,6 +283,7 @@
       "freeFormPollTitle": "Free-Form Response",
       "sliderPollTitle": "Slider",
       "addOptionButton": "Add option",
+      "typeQuestionHere": "Type question here...",
       "resetPollButton": "Reset poll",
       "freeFormFakeInputPlaceholder": "Respond here...",
       "sliderLeftInputPlaceholder": "Slider 1",
