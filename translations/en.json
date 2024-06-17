@@ -348,7 +348,8 @@
       "joinCommunityButton": "Join community",
       "pendingInvites": "Pending invites",
       "pendingRequests": "Pending requests",
-      "latest": "Latest"
+      "latest": "Latest",
+      "insights": "Insights"
     },
     "CommunityMembersScreen": {
       "headerTitle": "Members",

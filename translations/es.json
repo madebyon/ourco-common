@@ -223,7 +223,9 @@
       "headerTitle": "Seleccionar comunidades",
       "subTitle": "También puedes agregar más comunidades más tarde",
       "topRightButton": "Seleccionar",
-      "noCommunitiesOrRolesMessage": "Debes seleccionar al menos una comunidad y un rol."
+      "noCommunitiesOrRolesMessage": "Debes seleccionar al menos una comunidad y un rol.",
+      "latest": "Latest",
+      "insights": "Insights"
     },
     "SelectRoleScreen": {
       "headerTitle": "Selecciona tus roles",
