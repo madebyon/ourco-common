@@ -57,7 +57,20 @@
       "somethingWentWrong": "Something went wrong.",
       "tryAgain": "Please try again",
       "revoke": "Revoke",
-      "subcommunities": "Subcommunities"
+      "subcommunities": "Subcommunities",
+      "myRoles": "My Roles",
+      "enterCommunityName": "Enter community name",
+      "communityName": "Community name",
+      "contactEmail": "Contact email",
+      "mainColor": "Main color",
+      "selectYourColor": "Select your color",
+      "optional": "Optional",
+      "address1": "Address1",
+      "address2": "Address2",
+      "country": "Country",
+      "city": "City",
+      "state": "State",
+      "zipCode": "Zip Code"
     },
     "OnboardingScreen": {
       "step1": {
@@ -111,6 +124,7 @@
       "bioInputTitle": "Bio",
       "bioInputPlaceholder": "Adding a bio is optional",
       "addressInputTitle": "Address",
+      "addressFinder": "Address finder",
       "addressInputPlaceholder": "(Optional)",
       "bioErrorMessage": "Your bio should be less than 280 characters",
       "importantSheet": {
@@ -394,6 +408,7 @@
     },
     "CommunitySubCommunitiesScreen": {
       "headerTitle": "Communities",
+      "createCommunity": "Create Community",
       "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first"
     },
     "CommentSettingSheet": {
