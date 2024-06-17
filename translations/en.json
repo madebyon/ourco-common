@@ -224,7 +224,9 @@
       "headerTitle": "Select communities",
       "subTitle": "You can add more communities later on, too",
       "topRightButton": "Select",
-      "noCommunitiesOrRolesMessage": "You must select at least one community and role."
+      "noCommunitiesOrRolesMessage": "You must select at least one community and role.",
+      "viewPendingRequests": "View Pending Requests",
+      "leaveCommunityAlertMessage": "Are you sure you want to leave this Community?"
     },
     "SelectRoleScreen": {
       "headerTitle": "Select your roles",
@@ -349,7 +351,8 @@
       "pendingInvites": "Pending invites",
       "pendingRequests": "Pending requests",
       "latest": "Latest",
-      "insights": "Insights"
+      "insights": "Insights",
+      "communityInterests": "Community Interests"
     },
     "CommunityMembersScreen": {
       "headerTitle": "Members",
@@ -408,6 +411,10 @@
       "getSupportItem": {
         "title": "Get support",
         "description": "Questions? Contact app developers"
+      },
+      "copyItem": {
+        "title": "Copy community URL",
+        "description": ""
       },
       "manageMyRolesItem": {
         "title": "Manage my roles",
