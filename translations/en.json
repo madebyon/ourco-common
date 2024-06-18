@@ -75,7 +75,8 @@
       "enterFullName": "Enter full name",
       "fullName": "Full name",
       "enterYourEmail": "Enter your email",
-      "roles": "Roles"
+      "roles": "Roles",
+      "filters": "Filters"
     },
     "OnboardingScreen": {
       "step1": {
