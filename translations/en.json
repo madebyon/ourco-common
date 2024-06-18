@@ -246,7 +246,9 @@
       "topRightButton": "Select",
       "noCommunitiesOrRolesMessage": "You must select at least one community and role.",
       "viewPendingRequests": "View Pending Requests",
-      "leaveCommunityAlertMessage": "Are you sure you want to leave this Community?"
+      "leaveCommunityAlertMessage": "Are you sure you want to leave this Community?",
+      "successfullyCreated": "Community successfully created",
+      "successfullyUpdated": "Community successfully updated"
     },
     "SelectRoleScreen": {
       "headerTitle": "Select your roles",
@@ -416,7 +418,8 @@
     "CommunitySubCommunitiesScreen": {
       "headerTitle": "Communities",
       "createCommunity": "Create Community",
-      "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first"
+      "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first",
+      "emptyMessage": "No subcommunities to display"
     },
     "CommentSettingSheet": {
       "title": "Comment settings",
