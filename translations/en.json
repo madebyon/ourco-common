@@ -76,7 +76,8 @@
       "fullName": "Full name",
       "enterYourEmail": "Enter your email",
       "roles": "Roles",
-      "filters": "Filters"
+      "filters": "Filters",
+      "copyMessage": "Url copied!"
     },
     "OnboardingScreen": {
       "step1": {
