@@ -46,6 +46,7 @@
       "minPassError": "Must be at least 8 characters in length",
       "validEmailError": "Enter a valid email address",
       "validPhoneError": "Enter a valid phone number",
+      "validPhoneAndEmailError": "Please enter a valid phone number or email",
       "passwordSupportedText1": "Must contain 8 or more characters ",
       "passwordSupportedText2": "Must include letters, numbers, and special characters",
       "passwordErrorLowerCase": "One lowercase character",
@@ -70,7 +71,10 @@
       "country": "Country",
       "city": "City",
       "state": "State",
-      "zipCode": "Zip Code"
+      "zipCode": "Zip Code",
+      "enterFullName": "Enter full name",
+      "fullName": "Full name",
+      "enterYourEmail": "Enter your email"
     },
     "OnboardingScreen": {
       "step1": {
