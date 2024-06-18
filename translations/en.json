@@ -74,7 +74,8 @@
       "zipCode": "Zip Code",
       "enterFullName": "Enter full name",
       "fullName": "Full name",
-      "enterYourEmail": "Enter your email"
+      "enterYourEmail": "Enter your email",
+      "roles": "Roles"
     },
     "OnboardingScreen": {
       "step1": {
@@ -384,7 +385,8 @@
       "pendingTab": "Pending",
       "requestsTab": "Requests",
       "invitesTab": "Invites",
-      "unregInvitesTab": "Unreg. Invites"
+      "unregInvitesTab": "Unreg. Invites",
+      "updateRoles": "Update Roles"
     },
     "UpdateCommunityScreen": {
       "headerTitle": "Update community",
