@@ -392,7 +392,7 @@
       "requestsTab": "Requests",
       "invitesTab": "Invites",
       "unregInvitesTab": "Unreg. Invites",
-      "updateRoles": "Update Roles"
+      "updateRoles": "Update Roles",
       "filteredMembers": "{{count}} filtered members"
     },
     "UpdateCommunityScreen": {
