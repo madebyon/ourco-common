@@ -1,6 +1,7 @@
 {
   "translation": {
     "Common": {
+      "anonymous": "Anonymous",
       "noData": "No data available",
       "noInternet": "No internet connection",
       "noInternetMessage": "Please check your internet connection and try again",
