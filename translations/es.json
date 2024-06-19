@@ -526,7 +526,7 @@
       "emailPhoneAlreadyInuseError": "Este {{type}} ya está en uso. Por favor, intenta con otro."
     },
     "ChooseMediaPickerSheet": {
-      "title": "hoose media picker",
+      "title": "Hoose media",
       "camera": "Camera",
       "gallery": "Gallery"
     }

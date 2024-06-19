@@ -569,7 +569,7 @@
       "emailPhoneAlreadyInuseError": "This {{type}} is already in use. Please try another one."
     },
     "ChooseMediaPickerSheet": {
-      "title": "choose media picker",
+      "title": "Choose media",
       "camera": "Camera",
       "gallery": "Gallery"
     }
