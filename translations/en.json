@@ -46,6 +46,7 @@
       "minPassError": "Must be at least 8 characters in length",
       "validEmailError": "Enter a valid email address",
       "validPhoneError": "Enter a valid phone number",
+      "validPhoneAndEmailError": "Please enter a valid phone number or email",
       "passwordSupportedText1": "Must contain 8 or more characters ",
       "passwordSupportedText2": "Must include letters, numbers, and special characters",
       "passwordErrorLowerCase": "One lowercase character",
@@ -57,7 +58,26 @@
       "somethingWentWrong": "Something went wrong.",
       "tryAgain": "Please try again",
       "revoke": "Revoke",
-      "subcommunities": "Subcommunities"
+      "subcommunities": "Subcommunities",
+      "myRoles": "My Roles",
+      "enterCommunityName": "Enter community name",
+      "communityName": "Community name",
+      "contactEmail": "Contact email",
+      "mainColor": "Main color",
+      "selectYourColor": "Select your color",
+      "optional": "Optional",
+      "address1": "Address1",
+      "address2": "Address2",
+      "country": "Country",
+      "city": "City",
+      "state": "State",
+      "zipCode": "Zip Code",
+      "enterFullName": "Enter full name",
+      "fullName": "Full name",
+      "enterYourEmail": "Enter your email",
+      "roles": "Roles",
+      "filters": "Filters",
+      "copyMessage": "Url copied!"
     },
     "OnboardingScreen": {
       "step1": {
@@ -111,6 +131,7 @@
       "bioInputTitle": "Bio",
       "bioInputPlaceholder": "Adding a bio is optional",
       "addressInputTitle": "Address",
+      "addressFinder": "Address finder",
       "addressInputPlaceholder": "(Optional)",
       "bioErrorMessage": "Your bio should be less than 280 characters",
       "importantSheet": {
@@ -224,7 +245,11 @@
       "headerTitle": "Select communities",
       "subTitle": "You can add more communities later on, too",
       "topRightButton": "Select",
-      "noCommunitiesOrRolesMessage": "You must select at least one community and role."
+      "noCommunitiesOrRolesMessage": "You must select at least one community and role.",
+      "viewPendingRequests": "View Pending Requests",
+      "leaveCommunityAlertMessage": "Are you sure you want to leave this Community?",
+      "successfullyCreated": "Community successfully created",
+      "successfullyUpdated": "Community successfully updated"
     },
     "SelectRoleScreen": {
       "headerTitle": "Select your roles",
@@ -271,8 +296,12 @@
       "noOptionsErrorMessage": "Please add text to all options",
       "noImagesErrorMessage": "Please add images for all options",
       "noCommunityErrorMessage": "Please select a community",
+      "warningSelectPostContent": "Please select some post content",
       "markdownPlaceholder": "Type text here...",
+      "typeOptionHere": "Type option here...",
       "addMediaText": "Add media",
+      "selectRoles": "Select roles",
+      "allSelectedByDefault": "All selected by default",
       "updateMediaText": "Update media",
       "selectPostTypeTitle": "Select poll type",
       "contentToggleText": "Text",
@@ -283,6 +312,7 @@
       "freeFormPollTitle": "Free-Form Response",
       "sliderPollTitle": "Slider",
       "addOptionButton": "Add option",
+      "typeQuestionHere": "Type question here...",
       "resetPollButton": "Reset poll",
       "freeFormFakeInputPlaceholder": "Respond here...",
       "sliderLeftInputPlaceholder": "Slider 1",
@@ -297,11 +327,16 @@
       "dateTimePlaceholder": "Date & Time",
       "datePickerScheduleTitle": "Schedule",
       "datePickerScheduleSubTitle": "Choose the date and time below. Time zone is based on your device's settings.",
+      "selectScheduleDatePlaceholder": "Select date to schedule",
       "sectionFABText": "Text",
       "sectionFABImage": "Image",
       "sectionFABPoll": "Poll",
       "selectCommunityTitle": "Select community",
-      "setTime": "Set time"
+      "setTime": "Set time",
+      "next": "Next",
+      "successfullyPosted": "Your post successfully updated",
+      "successfullyUpdated": "Your post successfully updated",
+      "atLeastOneOptionRequired": "You must have at least one option"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
@@ -339,7 +374,9 @@
       "joinCommunityButton": "Join community",
       "pendingInvites": "Pending invites",
       "pendingRequests": "Pending requests",
-      "latest": "Latest"
+      "latest": "Latest",
+      "insights": "Insights",
+      "communityInterests": "Community Interests"
     },
     "CommunityMembersScreen": {
       "headerTitle": "Members",
@@ -354,6 +391,7 @@
       "requestsTab": "Requests",
       "invitesTab": "Invites",
       "unregInvitesTab": "Unreg. Invites",
+      "updateRoles": "Update Roles"
       "filteredMembers": "{{count}} filtered members"
     },
     "UpdateCommunityScreen": {
@@ -382,7 +420,9 @@
     },
     "CommunitySubCommunitiesScreen": {
       "headerTitle": "Communities",
-      "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first"
+      "createCommunity": "Create Community",
+      "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first",
+      "emptyMessage": "No subcommunities to display"
     },
     "CommentSettingSheet": {
       "title": "Comment settings",
@@ -399,6 +439,10 @@
       "getSupportItem": {
         "title": "Get support",
         "description": "Questions? Contact app developers"
+      },
+      "copyItem": {
+        "title": "Copy community URL",
+        "description": ""
       },
       "manageMyRolesItem": {
         "title": "Manage my roles",
