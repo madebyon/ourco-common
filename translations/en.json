@@ -335,7 +335,8 @@
       "setTime": "Set time",
       "next": "Next",
       "successfullyPosted": "Your post successfully updated",
-      "successfullyUpdated": "Your post successfully updated"
+      "successfullyUpdated": "Your post successfully updated",
+      "atLeastOneOptionRequired": "You must have at least one option"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
