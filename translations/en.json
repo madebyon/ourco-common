@@ -353,7 +353,8 @@
       "pendingTab": "Pending",
       "requestsTab": "Requests",
       "invitesTab": "Invites",
-      "unregInvitesTab": "Unreg. Invites"
+      "unregInvitesTab": "Unreg. Invites",
+      "filteredMembers": "{{count}} filtered members"
     },
     "UpdateCommunityScreen": {
       "headerTitle": "Update community",
