@@ -446,6 +446,10 @@
         "title": "Administrar comunidades",
         "description": "Conectar o eliminar subcomunidades"
       },
+       "manageRolesItem": {
+        "title": "Administrar roles",
+        "description": "Administrar roles de la comunidad"
+      },
       "deleteCommunityItem": {
         "title": "Eliminar comunidad",
         "description": ""
@@ -529,6 +533,20 @@
       "title": "Hoose media",
       "camera": "Camera",
       "gallery": "Gallery"
+    },
+    "ManageCommunityRolesScreen": {
+      "headerTitle": "Administrar roles",
+      "addNewRoleButton": "Agregar nuevo rol",
+      "deleteRoleAlertTitle": "¿Estás seguro?",
+      "deleteRoleAlertMessage": "Esta acción no se puede deshacer",
+      "openRoleLabel": "Cualquiera puede unirse",
+      "closedRoleLabel": "Sólo por invitación"
+    },
+    "CreateCommunityRoleScreen": {
+      "headerTitle": "Crear rol"
+    },
+    "EditCommunityRoleScreen": {
+      "headerTitle": "Editar rol"
     }
   }
 }

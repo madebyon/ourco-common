@@ -489,6 +489,10 @@
         "title": "Manage communities",
         "description": "Connect or remove sub-communities"
       },
+       "manageRolesItem": {
+        "title": "Manage user roles",
+        "description": "Update or remove user permissions"
+      },
       "deleteCommunityItem": {
         "title": "Delete community",
         "description": ""
@@ -572,6 +576,20 @@
       "title": "Choose media",
       "camera": "Camera",
       "gallery": "Gallery"
+    },
+    "ManageCommunityRolesScreen": {
+      "headerTitle": "Manage user roles",
+      "addNewRoleButton": "Add new role",
+      "deleteRoleAlertTitle": "Delete role?",
+      "deleteRoleAlertMessage": "This action cannot be undone",
+      "openRoleLabel": "Anyone can join",
+      "closedRoleLabel": "Only approved or invited users can join"
+    },
+    "CreateCommunityRoleScreen": {
+      "headerTitle": "Create new role"
+    },
+    "EditCommunityRoleScreen": {
+      "headerTitle": "Edit role"
     }
   }
 }
