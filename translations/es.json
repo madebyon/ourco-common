@@ -550,8 +550,8 @@
     },
     "UserProfile": {
       "editProfileButton": "Editar perfil",
-      "communities": "comunidades",
-      "community": "comunidad",
+      "communities": "Comunidades",
+      "community": "Comunidad",
       "myCommunitiesModalTitle": "Mis comunidades",
       "interestsTitle": "Principales intereses",
       "interestsShowMore": "Mostrar más",
