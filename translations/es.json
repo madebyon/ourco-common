@@ -167,21 +167,28 @@
       "defaultEmptyMessageCommunity": "El contenido solo es visible para los miembros de la comunidad."
     },
     "Post": {
-      "freeFormPlaceholder": "Ingrese su respuesta",
+      "goToCommunityPage": "Ir a la página de la comunidad",
+      "copyPostUrl": "Copiar URL de la publicación",
+      "editPost": "Editar publicación",
+      "duplicatePost": "Duplicar publicación",
+      "archivePost": "Archivar publicación",
+      "deletePost": "Eliminar publicación",
+      "deletePostMessage": "¿Estás seguro? Esta acción no se puede deshacer",
+      "freeFormPlaceholder": "Ingresa tu respuesta",
       "anonToggle": "Anónimo (cambiar)",
       "publicToggle": "Público (cambiar)",
       "changeResponseButton": "Cambiar respuesta",
       "removeResponseButton": "Eliminar respuesta",
       "closedPollText": "Encuesta cerrada",
-      "timeClosedText": "No puede votar en esta encuesta",
+      "timeClosedText": "No puedes votar en esta encuesta",
       "commentsSheetTitle": "Comentarios",
       "emptyCommentsListMessage": "No hay comentarios para mostrar",
-      "inputCommentPlaceholder": "Escriba un comentario...",
+      "inputCommentPlaceholder": "Escribe un comentario...",
       "responsesSheetTitle": "Respuestas",
       "emptyResponsesListMessage": "No hay respuestas para mostrar",
       "responsesHiddenUsersMessage": {
-        "part1": "usuario ha",
-        "part2": "usuarios han",
+        "part1": "el usuario ha",
+        "part2": "los usuarios han",
         "part3": "sido ocultados porque eligieron permanecer en el anonimato."
       }
     },
@@ -556,18 +563,6 @@
       "interestsTitle": "Principales intereses",
       "interestsShowMore": "Mostrar más",
       "interestsShowLess": "Mostrar menos"
-    },
-    "UserProfileEdit": {
-      "title": "Información personal",
-      "uploadAvatar": "Subir un logotipo o foto",
-      "firstName": "Nombre",
-      "lastName": "Apellido",
-      "dateOfBirth": "Fecha de nacimiento",
-      "Language": "Idioma",
-      "genderIdentity": "Identidad de género",
-      "ethnicity": "Etnicidad",
-      "bio": "Biografía",
-      "addressFinder": "Buscador de direcciones"
     }
   }
 }

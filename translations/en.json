@@ -188,6 +188,13 @@
       "defaultEmptyMessageCommunity": "Content is only visible to community members."
     },
     "Post": {
+      "goToCommunityPage": "Go to Community Page",
+      "copyPostUrl": "Copy post URL",
+      "editPost": "Edit Post",
+      "duplicatePost": "Duplicate Post",
+      "archivePost": "Archive Post",
+      "deletePost": "Delete Post",
+      "deletePostMessage": "Are you sure? This action cannot be undone",
       "freeFormPlaceholder": "Enter your response",
       "anonToggle": "Anonymous (change)",
       "publicToggle": "Public (change)",
@@ -599,18 +606,6 @@
       "interestsTitle": "Top Interests",
       "interestsShowMore": "Show more",
       "interestsShowLess": "Show less"
-    },
-    "UserProfileEdit": {
-      "title": "Personal Information",
-      "uploadAvatar": "Upload a Logo or Photo",
-      "firstName": "First name",
-      "lastName": "Last name",
-      "dateOfBirth": "Date of birth",
-      "Language": "Language",
-      "genderIdentity": "Gender Identity",
-      "ethnicity": "Ethnicity",
-      "bio": "Bio",
-      "addressFinder": "Address finder"
     }
   }
 }
