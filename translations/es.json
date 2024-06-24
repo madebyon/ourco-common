@@ -446,7 +446,7 @@
         "title": "Administrar comunidades",
         "description": "Conectar o eliminar subcomunidades"
       },
-       "manageRolesItem": {
+      "manageRolesItem": {
         "title": "Administrar roles",
         "description": "Administrar roles de la comunidad"
       },
@@ -547,6 +547,27 @@
     },
     "EditCommunityRoleScreen": {
       "headerTitle": "Editar rol"
+    },
+    "UserProfile": {
+      "editProfileButton": "Editar perfil",
+      "communities": "comunidades",
+      "community": "comunidad",
+      "myCommunitiesModalTitle": "Mis comunidades",
+      "interestsTitle": "Principales intereses",
+      "interestsShowMore": "Mostrar más",
+      "interestsShowLess": "Mostrar menos"
+    },
+    "UserProfileEdit": {
+      "title": "Información personal",
+      "uploadAvatar": "Subir un logotipo o foto",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "dateOfBirth": "Fecha de nacimiento",
+      "Language": "Idioma",
+      "genderIdentity": "Identidad de género",
+      "ethnicity": "Etnicidad",
+      "bio": "Biografía",
+      "addressFinder": "Buscador de direcciones"
     }
   }
 }

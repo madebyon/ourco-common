@@ -489,7 +489,7 @@
         "title": "Manage communities",
         "description": "Connect or remove sub-communities"
       },
-       "manageRolesItem": {
+      "manageRolesItem": {
         "title": "Manage user roles",
         "description": "Update or remove user permissions"
       },
@@ -590,6 +590,27 @@
     },
     "EditCommunityRoleScreen": {
       "headerTitle": "Edit role"
+    },
+    "UserProfile": {
+      "editProfileButton": "Edit Profile",
+      "communities": "communities",
+      "community": "community",
+      "myCommunitiesModalTitle": "My Communities",
+      "interestsTitle": "Top Interests",
+      "interestsShowMore": "Show more",
+      "interestsShowLess": "Show less"
+    },
+    "UserProfileEdit": {
+      "title": "Personal Information",
+      "uploadAvatar": "Upload a Logo or Photo",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "dateOfBirth": "Date of birth",
+      "Language": "Language",
+      "genderIdentity": "Gender Identity",
+      "ethnicity": "Ethnicity",
+      "bio": "Bio",
+      "addressFinder": "Address finder"
     }
   }
 }
