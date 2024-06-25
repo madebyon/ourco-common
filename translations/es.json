@@ -112,7 +112,7 @@
       "bioInputTitle": "Biografía",
       "bioInputPlaceholder": "Agregar una biografía es opcional",
       "addressInputTitle": "Dirección",
-      "addressFinder": "buscador de direcciones",
+      "addressFinder": "Buscador de direcciones",
       "addressInputPlaceholder": "(Opcional)",
       "bioErrorMessage": "Su biografía debe tener menos de 280 caracteres",
       "importantSheet": {
@@ -180,6 +180,7 @@
       "publicToggle": "Público (cambiar)",
       "changeResponseButton": "Cambiar respuesta",
       "removeResponseButton": "Eliminar respuesta",
+      "viewResponseAnalytics": "View response analytics",
       "closedPollText": "Encuesta cerrada",
       "timeClosedText": "No puedes votar en esta encuesta",
       "commentsSheetTitle": "Comentarios",

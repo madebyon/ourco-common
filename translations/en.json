@@ -200,6 +200,7 @@
       "publicToggle": "Public (change)",
       "changeResponseButton": "Change response",
       "removeResponseButton": "Remove response",
+      "viewResponseAnalytics": "View response analytics",
       "closedPollText": "Poll closed",
       "timeClosedText": "You cannot vote on this poll",
       "commentsSheetTitle": "Comments",
@@ -355,9 +356,13 @@
     "PostAnalyticsScreen": {
       "headerTitle": "Analytics",
       "displayResultTitle": "Tap a result for analytics",
+      "filterResults": "Filter Results",
       "tabReceived": "Received",
       "tabResults": "Results",
-      "noResultsMessage": "No result"
+      "noResultsMessage": "No result",
+      "filtersHeader": "Filters",
+      "filtersApply": "Apply",
+      "filtersClear": "Clear all"
     },
     "UserSettingsScreen": {
       "headerTitle": "Personal Information",
