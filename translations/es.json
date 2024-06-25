@@ -321,11 +321,15 @@
       "headerTitle": "Publicación"
     },
     "PostAnalyticsScreen": {
-      "headerTitle": "Analíticas",
-      "displayResultTitle": "Toca un resultado para ver las analíticas",
+      "headerTitle": "Análisis",
+      "displayResultTitle": "Toca un resultado para ver el análisis",
+      "filterResults": "Filtrar resultados",
       "tabReceived": "Recibido",
       "tabResults": "Resultados",
-      "noResultsMessage": "Sin resultados"
+      "noResultsMessage": "Sin resultados",
+      "filtersHeader": "Filtros",
+      "filtersApply": "Aplicar",
+      "filtersClear": "Borrar todo"
     },
     "UserSettingsScreen": {
       "headerTitle": "Información personal",
