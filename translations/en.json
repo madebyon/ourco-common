@@ -78,7 +78,10 @@
       "enterYourEmail": "Enter your email",
       "roles": "Roles",
       "filters": "Filters",
-      "copyMessage": "Url copied!"
+      "copyMessage": "Url copied!",
+      "home": "Home",
+      "notifications": "Notifications",
+      "createPost": "Create Post"
     },
     "OnboardingScreen": {
       "step1": {
