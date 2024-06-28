@@ -164,6 +164,7 @@
     },
     "FeedList": {
       "defaultEmptyMessage": "No hay publicaciones disponibles",
+      "defaultEmptyMessageHomeFeed": "No hay publicaciones disponibles. Únete a una comunidad para ver publicaciones.",
       "defaultEmptyMessageProfile": "Este usuario puede tener su actividad oculta.",
       "defaultEmptyMessageCommunity": "El contenido solo es visible para los miembros de la comunidad."
     },

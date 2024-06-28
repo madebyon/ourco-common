@@ -187,6 +187,7 @@
     },
     "FeedList": {
       "defaultEmptyMessage": "There are no posts to display",
+      "defaultEmptyMessageHomeFeed": "Join more communities to receive more content.",
       "defaultEmptyMessageProfile": "This user may have their activity hidden.",
       "defaultEmptyMessageCommunity": "Content is only visible to community members."
     },
@@ -214,7 +215,7 @@
       "responsesHiddenUsersMessage": {
         "part1": "user has",
         "part2": "users have",
-        "part3": "been hidden because they chose to remain anonymous."
+        "part3": "are been hidden because they chose to be remain anonymous."
       }
     },
     "NotificationScreen": {
@@ -358,7 +359,7 @@
     },
     "PostAnalyticsScreen": {
       "headerTitle": "Analytics",
-      "displayResultTitle": "Tap a result for analytics",
+      "displayResultTitle": "Toca un resultado para análisis individuales",
       "filterResults": "Filter Results",
       "tabReceived": "Reached",
       "tabResults": "Results",
