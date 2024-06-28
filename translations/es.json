@@ -313,7 +313,8 @@
       "sectionFABImage": "Imagen",
       "sectionFABPoll": "Encuesta",
       "selectCommunityTitle": "Seleccionar comunidad",
-      "setTime": "Fijar tiempo"
+      "setTime": "Fijar tiempo",
+      "saveDraft": "Guardar borrador"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
