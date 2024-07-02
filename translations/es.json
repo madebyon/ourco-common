@@ -401,6 +401,7 @@
     "CommunitySubCommunitiesScreen": {
       "headerTitle": "Comunidades",
       "createSubCommunity": "Crear subcomunidad",
+      "updateSubCommunity": "Actualizar subcomunidad",
       "deleteCommunityRolesAlertMessage": "Para eliminar esta comunidad, por favor elimina primero sus roles y subcomunidades"
     },
     "CommentSettingSheet": {

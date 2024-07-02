@@ -441,6 +441,7 @@
       "headerTitle": "Communities",
       "createCommunity": "Create Community",
       "createSubCommunity": "Create Sub-community",
+      "updateSubCommunity": "Update Sub-community",
       "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first",
       "emptyMessage": "No sub-communities to display"
     },
