@@ -14,6 +14,7 @@
       "delete": "Delete",
       "edit": "Edit",
       "save": "Save",
+      "create": "Create",
       "update": "Update",
       "submit": "Submit",
       "skip": "Skip",
@@ -439,8 +440,9 @@
     "CommunitySubCommunitiesScreen": {
       "headerTitle": "Communities",
       "createCommunity": "Create Community",
+      "createSubCommunity": "Create Sub-community",
       "deleteCommunityRolesAlertMessage": "In order to delete this community, please delete its roles and Sub-communities first",
-      "emptyMessage": "No subcommunities to display"
+      "emptyMessage": "No sub-communities to display"
     },
     "CommentSettingSheet": {
       "title": "Comment settings",
