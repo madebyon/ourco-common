@@ -558,7 +558,9 @@
       "closedRoleLabel": "Sólo por invitación"
     },
     "CreateCommunityRoleScreen": {
-      "headerTitle": "Crear rol"
+      "headerTitle": "Crear rol",
+      "createButton": "Crear",
+      "updateButton": "Actualizar"
     },
     "EditCommunityRoleScreen": {
       "headerTitle": "Editar rol"

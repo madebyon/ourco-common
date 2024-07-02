@@ -603,7 +603,9 @@
       "closedRoleLabel": "Only approved or invited users can join"
     },
     "CreateCommunityRoleScreen": {
-      "headerTitle": "Create new role"
+      "headerTitle": "Create new role",
+      "createButton": "Create",
+      "updateButton": "Update"
     },
     "EditCommunityRoleScreen": {
       "headerTitle": "Edit role"
