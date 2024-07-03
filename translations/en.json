@@ -361,7 +361,7 @@
     },
     "PostAnalyticsScreen": {
       "headerTitle": "Analytics",
-      "displayResultTitle": "Toca un resultado para análisis individuales",
+      "displayResultTitle": "Tap a result for individual analytics",
       "filterResults": "Filter Results",
       "tabReceived": "Reached",
       "tabResults": "Results",

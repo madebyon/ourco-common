@@ -325,7 +325,7 @@
     },
     "PostAnalyticsScreen": {
       "headerTitle": "Análisis",
-      "displayResultTitle": "Toca un resultado para ver el análisis",
+      "displayResultTitle": "Toca un resultado para ver el análisis individual",
       "filterResults": "Filtrar resultados",
       "tabReceived": "Alcanzado",
       "tabResults": "Resultados",
