@@ -214,9 +214,9 @@
       "responsesSheetTitle": "Responses",
       "emptyResponsesListMessage": "There are no responses to display",
       "responsesHiddenUsersMessage": {
-        "part1": "user has",
-        "part2": "users have",
-        "part3": "are been hidden because they chose to be remain anonymous."
+        "part1": "user is",
+        "part2": "users are",
+        "part3": "hidden because they chose to remain anonymous."
       }
     },
     "NotificationScreen": {
