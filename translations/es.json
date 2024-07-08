@@ -315,7 +315,8 @@
       "sectionFABPoll": "Encuesta",
       "selectCommunityTitle": "Seleccionar comunidad",
       "setTime": "Fijar tiempo",
-      "saveDraft": "Guardar borrador"
+      "saveDraft": "Guardar borrador",
+      "notScheduledPublishedPost": "No puedes programar una publicación que ya ha sido publicada"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
