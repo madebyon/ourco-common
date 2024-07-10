@@ -464,7 +464,8 @@
       },
       "copyItem": {
         "title": "Copy community URL",
-        "description": ""
+        "description": "",
+        "alertTitle": "Community URL copied!"
       },
       "manageMyRolesItem": {
         "title": "Manage my roles",
@@ -551,6 +552,11 @@
       "viewPostItem": {
         "title": "View post",
         "description": ""
+      },
+       "copyItem": {
+        "title": "Copy post URL",
+        "description": "",
+        "alertTitle": "Post URL copied!"
       },
       "pinPostItem": {
         "title": "Pin post",

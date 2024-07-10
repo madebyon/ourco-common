@@ -421,6 +421,11 @@
         "title": "Obtener soporte",
         "description": "¿Preguntas? Contacta a los desarrolladores de la aplicación"
       },
+       "copyItem": {
+        "title": "Copiar URL de la comunidad",
+        "description": "",
+        "alertTitle": "¡URL copiada!"
+      },
       "manageMyRolesItem": {
         "title": "Administrar mis roles",
         "description": ""
@@ -506,6 +511,11 @@
       "viewPostItem": {
         "title": "Ver publicación",
         "description": ""
+      },
+      "copyItem": {
+        "title": "Copiar URL de la publicación",
+        "description": "",
+        "alertTitle": "¡URL copiada!"
       },
       "pinPostItem": {
         "title": "Fijar publicación",
