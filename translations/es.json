@@ -265,7 +265,7 @@
         "approved": "Aprobado",
         "rejected": "Rechazado"
       },
-      "noCommunities": "No communities"
+      "noRolesMessage2": "No hay roles disponibles, por favor contacta al administrador de la comunidad para más soporte"
     },
     "InterestScreen": {
       "num1Interest": "Your #1 interest"
