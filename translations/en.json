@@ -82,7 +82,8 @@
       "copyMessage": "Url copied!",
       "home": "Home",
       "notifications": "Notifications",
-      "createPost": "Create Post"
+      "createPost": "Create Post",
+      "noResults": "No results"
     },
     "OnboardingScreen": {
       "step1": {
@@ -352,7 +353,7 @@
       "successfullyPosted": "Your post successfully updated",
       "successfullyUpdated": "Your post successfully updated",
       "atLeastOneOptionRequired": "You must have at least one option",
-      "notScheduledPublishedPost": "You can't schedule a post that has already been published"
+      "notScheduledPublishedPost": "You can't schedule a post that has already been published",
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
@@ -369,7 +370,10 @@
       "noResultsMessage": "No result",
       "filtersHeader": "Filters",
       "filtersApply": "Apply",
-      "filtersClear": "Clear all"
+      "filtersClear": "Clear all",
+      "membersReachedTitle": "Members reached",
+      "responsesTitle": "Responses",
+      "responseRateTitle": "Response rate"
     },
     "UserSettingsScreen": {
       "headerTitle": "Personal Information",

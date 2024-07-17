@@ -58,7 +58,8 @@
       "usePhoneInstead": "Usar teléfono en su lugar",
       "somethingWentWrong": "Algo salió mal.",
       "tryAgain": "Por favor, inténtalo de nuevo.",
-      "revoke": "Revocar"
+      "revoke": "Revocar",
+      "noResults": "No hay resultados"
     },
     "OnboardingScreen": {
       "step1": {
@@ -333,7 +334,10 @@
       "noResultsMessage": "Sin resultados",
       "filtersHeader": "Filtros",
       "filtersApply": "Aplicar",
-      "filtersClear": "Borrar todo"
+      "filtersClear": "Borrar todo",
+      "membersReachedTitle": "Miembros alcanzados",
+      "responsesTitle": "Respuestas",
+      "responseRateTitle": "Tasa de respuesta"
     },
     "UserSettingsScreen": {
       "headerTitle": "Información personal",
