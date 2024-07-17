@@ -208,7 +208,7 @@
       "removeResponseButton": "Remove response",
       "viewResponseAnalytics": "View response analytics",
       "closedPollText": "Poll closed",
-      "timeClosedText": "You cannot vote on this poll",
+      "timeClosedText": "This poll isn't available for your Role",
       "commentsSheetTitle": "Comments",
       "emptyCommentsListMessage": "There are no comments to display",
       "inputCommentPlaceholder": "Write a comment...",
