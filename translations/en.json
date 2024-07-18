@@ -353,7 +353,7 @@
       "successfullyPosted": "Your post successfully updated",
       "successfullyUpdated": "Your post successfully updated",
       "atLeastOneOptionRequired": "You must have at least one option",
-      "notScheduledPublishedPost": "You can't schedule a post that has already been published",
+      "notScheduledPublishedPost": "You can't schedule a post that has already been published"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
@@ -619,7 +619,23 @@
     "CreateCommunityRoleScreen": {
       "headerTitle": "Create new role",
       "createButton": "Create",
-      "updateButton": "Update"
+      "updateButton": "Update",
+      "deleteButton": "Delete role",
+      "deleteRoleToast": "Role successfully deleteted",
+      "updateRoleToast": "Role successfully updated",
+      "createRoleToast": "Role successfully created",
+      "roleNameLabel": "Role name",
+      "roleNamePlaceholder": "Enter role name",
+      "roleDescriptionLabel": "Description",
+      "roleDescriptionPlaceholder": "Enter role description",
+      "roleOpenLabel": "Open or close role",
+      "roleAllowRequestLabel": "Allow request to join role",
+      "rolePermissionManageLabel": "Can manage community settings",
+      "rolePermissionPostLabel": "Can create posts",
+      "rolePermissionMembersLabel": "Can manage membership",
+      "rolePermissionAnalyticsLabel": "Can view analytics",
+      "rolePermissionCommentLabel": "Can comment",
+      "rolePermissionModorateLabel": "Can moderate comments"
     },
     "EditCommunityRoleScreen": {
       "headerTitle": "Edit role"
