@@ -68,8 +68,8 @@
       "mainColor": "Main color",
       "selectYourColor": "Select your color",
       "optional": "Optional",
-      "address1": "Address1",
-      "address2": "Address2",
+      "address1": "Address Line 1",
+      "address2": "Address Line 2",
       "country": "Country",
       "city": "City",
       "state": "State",
@@ -557,7 +557,7 @@
         "title": "View post",
         "description": ""
       },
-       "copyItem": {
+      "copyItem": {
         "title": "Copy post URL",
         "description": "",
         "alertTitle": "Post URL copied!"
