@@ -591,6 +591,20 @@
       "interestsTitle": "Principales intereses",
       "interestsShowMore": "Mostrar más",
       "interestsShowLess": "Mostrar menos"
+    },
+    "CreateUpdateCommunityRoleScreen": {
+      "namePlaceholder": "Nombre del rol // Ingrese el nombre de su comunidad",
+      "descriptionPlaceholder": "Descripción // Ingrese la descripción del rol",
+      "allow_request": "Permitir solicitud para unirse al rol",
+      "openRoleLabel": "Rol abierto",
+      "closedRoleLabel": "Rol cerrado",
+      "permissionManageLabel": "Puede gestionar la configuración de la comunidad",
+      "permissionPostLabel": "Puede crear publicaciones",
+      "permissionMembersLabel": "Puede gestionar la membresía",
+      "permissionAnalyticsLabel": "Puede ver análisis",
+      "permissionCommentLabel": "Puede comentar",
+      "permissionModerateLabel": "Puede moderar comentarios",
+      "createRoleButton": "Crear rol"
     }
   }
 }

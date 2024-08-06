@@ -648,6 +648,20 @@
       "interestsTitle": "Top Interests",
       "interestsShowMore": "Show more",
       "interestsShowLess": "Show less"
+    },
+    "CreateUpdateCommunityRoleScreen": {
+      "namePlaceholder": "Role name // Enter your community name",
+      "descriptionPlaceholder": "Description // Enter role description",
+      "allow_request": "Allow request to join role",
+      "openRoleLabel": "Open role",
+      "closedRoleLabel": "Closed role",
+      "permissionManageLabel": "Can manage community settings",
+      "permissionPostLabel": "Can create posts",
+      "permissionMembersLabel": "Can manage membership",
+      "permissionAnalyticsLabel": "Can view analytics",
+      "permissionCommentLabel": "Can comment",
+      "permissionModerateLabel": "Can moderate comments",
+      "createRoleButton": "Create role"
     }
   }
 }
