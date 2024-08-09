@@ -650,7 +650,7 @@
       "interestsShowLess": "Show less"
     },
     "CreateUpdateCommunityRoleScreen": {
-      "namePlaceholder": "Role name // Enter your community name",
+      "namePlaceholder": "Role name // Enter your community role",
       "descriptionPlaceholder": "Description // Enter role description",
       "allow_request": "Allow request to join role",
       "openRoleLabel": "Open role",

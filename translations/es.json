@@ -593,7 +593,7 @@
       "interestsShowLess": "Mostrar menos"
     },
     "CreateUpdateCommunityRoleScreen": {
-      "namePlaceholder": "Nombre del rol // Ingrese el nombre de su comunidad",
+      "namePlaceholder": "Nombre del rol // Ingrese el nombre de su rol",
       "descriptionPlaceholder": "Descripción // Ingrese la descripción del rol",
       "allow_request": "Permitir solicitud para unirse al rol",
       "openRoleLabel": "Rol abierto",
