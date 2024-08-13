@@ -662,6 +662,11 @@
       "permissionCommentLabel": "Can comment",
       "permissionModerateLabel": "Can moderate comments",
       "createRoleButton": "Create role"
+    },
+    "SimilarMembers": {
+      "title": "Similar members",
+      "title2": "Similar to you",
+      "emptyMessage": "No similar members to display"
     }
   }
 }

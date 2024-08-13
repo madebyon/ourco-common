@@ -605,6 +605,11 @@
       "permissionCommentLabel": "Puede comentar",
       "permissionModerateLabel": "Puede moderar comentarios",
       "createRoleButton": "Crear rol"
+    },
+    "SimilarMembers": {
+      "title": "Miembros similares",
+      "title2": "Similar a ti",
+      "emptyMessage": "No similar members to display"
     }
   }
 }
