@@ -83,7 +83,8 @@
       "home": "Home",
       "notifications": "Notifications",
       "createPost": "Create Post",
-      "noResults": "No results"
+      "noResults": "No results",
+      "activity": "Activity"
     },
     "OnboardingScreen": {
       "step1": {
@@ -231,6 +232,7 @@
       "searchDropdownTitle": "Recent searches",
       "communityTabTitle": "Communities",
       "memberTabTitle": "Members",
+      "postTabTitle": "Posts",
       "emptyMessage": "No results",
       "searchPlaceholder": "Search"
     },
@@ -667,6 +669,9 @@
       "title": "Similar members",
       "title2": "Similar to you",
       "emptyMessage": "No similar members to display"
+    },
+    "TopContributors": {
+      "title": "Top Contributors"
     }
   }
 }

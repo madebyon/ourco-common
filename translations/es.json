@@ -59,7 +59,8 @@
       "somethingWentWrong": "Algo salió mal.",
       "tryAgain": "Por favor, inténtalo de nuevo.",
       "revoke": "Revocar",
-      "noResults": "No hay resultados"
+      "noResults": "No hay resultados",
+      "activity": "Actividad"
     },
     "OnboardingScreen": {
       "step1": {
@@ -208,6 +209,7 @@
       "searchDropdownTitle": "Búsquedas recientes",
       "communityTabTitle": "Comunidades",
       "memberTabTitle": "Miembros",
+      "postTabTitle": "Posts",
       "emptyMessage": "No hay resultados"
     },
     "ProfileFeedScreen": {
@@ -610,6 +612,9 @@
       "title": "Miembros similares",
       "title2": "Similar a ti",
       "emptyMessage": "No similar members to display"
+    },
+    "TopContributors": {
+      "title": "Top contribuyentes"
     }
   }
 }
