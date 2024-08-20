@@ -615,6 +615,11 @@
     },
     "TopContributors": {
       "title": "Top contribuyentes"
+    },
+    "TrendingSection": {
+      "title": "Tendencias",
+      "goToPoll": "Ir a la publicación",
+      "noTrendingPolls": "No hay publicaciones de tendencia"
     }
   }
 }

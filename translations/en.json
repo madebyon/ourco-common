@@ -672,6 +672,11 @@
     },
     "TopContributors": {
       "title": "Top Contributors"
+    },
+    "TrendingSection": {
+      "title": "Trending",
+      "goToPoll": "Go to post",
+      "noTrendingPolls": "No trending posts"
     }
   }
 }
