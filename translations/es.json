@@ -427,7 +427,7 @@
         "title": "Obtener soporte",
         "description": "¿Preguntas? Contacta a los desarrolladores de la aplicación"
       },
-       "copyItem": {
+      "copyItem": {
         "title": "Copiar URL de la comunidad",
         "description": "",
         "alertTitle": "¡URL copiada!"
@@ -620,6 +620,10 @@
       "title": "Tendencias",
       "goToPoll": "Ir a la publicación",
       "noTrendingPolls": "No hay publicaciones de tendencia"
+    },
+    "Generations": {
+      "title": "Generaciones",
+      "emptyMessage": "No hay generaciones para mostrar"
     }
   }
 }

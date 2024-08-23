@@ -677,6 +677,10 @@
       "title": "Trending",
       "goToPoll": "Go to post",
       "noTrendingPolls": "No trending posts"
+    },
+    "Generations": {
+      "title": "Generations",
+      "emptyMessage": "No generations to display"
     }
   }
 }
