@@ -169,6 +169,8 @@
       "pendingInvites": "invitaciones pendientes"
     },
     "FeedList": {
+      "filterPosts": "Filtrar publicaciones",
+      "noActivity": "No hay actividad",
       "defaultEmptyMessage": "No hay publicaciones disponibles",
       "defaultEmptyMessageHomeFeed": "No hay publicaciones disponibles. Únete a una comunidad para ver publicaciones.",
       "defaultEmptyMessageProfile": "Este usuario puede tener su actividad oculta.",
@@ -360,7 +362,8 @@
       "contactSupportAdvisor": "Contactar asesor de soporte",
       "signOut": "Cerrar sesión",
       "deleteAccount": "Eliminar cuenta",
-      "cantUpdateProfileToast": "No pudimos actualizar tu perfil. Algo salió mal."
+      "cantUpdateProfileToast": "No pudimos actualizar tu perfil. Algo salió mal.",
+      "changeAccount": "Cambiar cuenta"
     },
     "CommunityScreen": {
       "notMemberMessage": "Aún no eres parte de esta comunidad.",
@@ -629,6 +632,15 @@
     "Generations": {
       "title": "Generaciones",
       "emptyMessage": "No hay generaciones para mostrar"
+    },
+    "Filters": {
+      "postStatusTitle": "Estado de la publicación",
+      "beforeDateTitle": "Antes de la fecha",
+      "rolesTitle": "Roles",
+      "ageTitle": "Edad",
+      "ethnicityTitle": "Etnicidad",
+      "genderTitle": "Género",
+      "subcommunitiesTitle": "Subcomunidades"
     }
   }
 }

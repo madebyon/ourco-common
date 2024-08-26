@@ -189,6 +189,8 @@
       "pendingInvites": "pending invites"
     },
     "FeedList": {
+      "filterPosts": "Filter posts",
+      "noActivity": "No activity to display.",
       "defaultEmptyMessage": "There are no posts to display",
       "defaultEmptyMessageHomeFeed": "Join more communities to receive more content.",
       "defaultEmptyMessageProfile": "This user may have their activity hidden.",
@@ -393,7 +395,8 @@
       "contactSupportAdvisor": "Contact support advisor",
       "signOut": "Sign out",
       "deleteAccount": "Delete account",
-      "cantUpdateProfileToast": "We couldn't update your profile. Something went wrong."
+      "cantUpdateProfileToast": "We couldn't update your profile. Something went wrong.",
+      "changeAccount": "Change account"
     },
     "CommunityScreen": {
       "notMemberMessage": "You aren't yet part of this community.",
@@ -681,6 +684,15 @@
     "Generations": {
       "title": "Generations",
       "emptyMessage": "No generations to display"
+    },
+    "Filters": {
+      "postStatusTitle": "Post status",
+      "beforeDateTitle": "Before Date",
+      "rolesTitle": "Roles",
+      "ageTitle": "Age",
+      "ethnicityTitle": "Ethnicity",
+      "genderTitle": "Gender",
+      "subcommunitiesTitle": "Subcommunities"
     }
   }
 }
