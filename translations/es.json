@@ -66,7 +66,14 @@
       "home": "Inicio",
       "notifications": "Notificaciones",
       "createPost": "Crear publicación",
-      "subcommunities": "Subcomunidades"
+      "subcommunities": "Subcomunidades",
+      "optional": "Opcional",
+      "address1": "Dirección",
+      "address2": "Dirección 2",
+      "country": "País",
+      "city": "Ciudad",
+      "state": "Estado",
+      "zipCode": "Código postal"
     },
     "OnboardingScreen": {
       "step1": {
