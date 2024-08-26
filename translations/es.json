@@ -60,7 +60,10 @@
       "tryAgain": "Por favor, inténtalo de nuevo.",
       "revoke": "Revocar",
       "noResults": "No hay resultados",
-      "activity": "Actividad"
+      "activity": "Actividad",
+      "home": "Inicio",
+      "notifications": "Notificaciones",
+      "createPost": "Crear publicación"
     },
     "OnboardingScreen": {
       "step1": {
@@ -364,7 +367,9 @@
       "joinCommunityButton": "Unirse a la comunidad",
       "pendingInvites": "Invitaciones pendientes",
       "pendingRequests": "Solicitudes pendientes",
-      "latest": "Último"
+      "latest": "Último",
+      "insights": "Insights",
+      "communityInterests": "Intereses de la comunidad"
     },
     "CommunityMembersScreen": {
       "headerTitle": "Miembros",
