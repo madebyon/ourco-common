@@ -61,9 +61,12 @@
       "revoke": "Revocar",
       "noResults": "No hay resultados",
       "activity": "Actividad",
+      "roles": "Roles",
+      "filters": "Filtros",
       "home": "Inicio",
       "notifications": "Notificaciones",
-      "createPost": "Crear publicación"
+      "createPost": "Crear publicación",
+      "subcommunities": "Subcomunidades"
     },
     "OnboardingScreen": {
       "step1": {
