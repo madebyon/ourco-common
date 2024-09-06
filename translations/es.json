@@ -161,7 +161,7 @@
       "codeInputTitle": "",
       "codeInputPlaceholder": "Ingrese el código aquí",
       "minLengthError": "El código debe contener al menos 6 caracteres",
-      "confirmButton": "Confirmar correo electrónico"
+      "confirmButton": "Confirmar {{destination}}"
     },
     "ForceUpdateModal": {
       "title": "Actualmente está en la versión {{currentAppVersion}}.\n Por favor, actualice a la última versión {{configVersion}}.",
