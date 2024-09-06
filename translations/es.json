@@ -155,7 +155,7 @@
       "doneResettingText": "¿Ha terminado de restablecer?"
     },
     "ConfirmOTPScreen": {
-      "title": "Revise su correo electrónico",
+      "title": "Revise su {{destination}}",
       "subTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su correo electrónico ({{destination}}) e ingrese el código a continuación.",
       "subTitle2": "Le hemos enviado un código de confirmación. Por favor, revise sus mensajes de texto ({{destination}}) e ingrese el código a continuación.",
       "codeInputTitle": "",

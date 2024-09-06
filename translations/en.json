@@ -165,7 +165,7 @@
       "doneResettingText": "Done resetting?"
     },
     "ConfirmOTPScreen": {
-      "title": "Check Your Email",
+      "title": "Check Your {{destination}}",
       "subTitle1": "We've sent you a confirmation code. Please check your email ({{destination}}) and enter the code below.",
       "subTitle2": " We've sent you a confirmation code. Please check your text messages ({{destination}}) and enter the code below.",
       "codeInputTitle": "",
