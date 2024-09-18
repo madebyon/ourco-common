@@ -454,6 +454,10 @@
         "title": "Administrar mis roles",
         "description": ""
       },
+      "manageRolesItemWeb": {
+        "title": "Administrar roles",
+        "description": ""
+      },
       "leaveCommunityItem": {
         "title": "Abandonar comunidad",
         "description": ""

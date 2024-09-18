@@ -480,6 +480,10 @@
         "title": "Manage my roles",
         "description": ""
       },
+      "manageRolesItemWeb": {
+        "title": "Manage roles",
+        "description": ""
+      },
       "leaveCommunityItem": {
         "title": "Leave community",
         "description": ""
