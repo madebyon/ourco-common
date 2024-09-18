@@ -148,23 +148,23 @@
       "resetPassButton": "Restablecer contraseña",
       "checkEmailTitle": "Revise su correo electrónico",
       "checkSmsTitle": "Revise su SMS",
-      "checkSubTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su {{fieldType}} ({{username}}) y confírmelo.",
+      "checkSubTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su {fieldType} ({username}) y confírmelo.",
       "passwordSuccessText": "Restablecimiento de contraseña exitoso, por favor inicie sesión ahora.",
       "resendCodeButton": "Reenviar código",
       "resendCountDownTitle": "Reenviar código en:",
       "doneResettingText": "¿Ha terminado de restablecer?"
     },
     "ConfirmOTPScreen": {
-      "title": "Revise su {{destination}}",
-      "subTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su correo electrónico ({{destination}}) e ingrese el código a continuación.",
-      "subTitle2": "Le hemos enviado un código de confirmación. Por favor, revise sus mensajes de texto ({{destination}}) e ingrese el código a continuación.",
+      "title": "Revise su {destination}",
+      "subTitle1": "Le hemos enviado un código de confirmación. Por favor, revise su correo electrónico ({destination}) e ingrese el código a continuación.",
+      "subTitle2": "Le hemos enviado un código de confirmación. Por favor, revise sus mensajes de texto ({destination}) e ingrese el código a continuación.",
       "codeInputTitle": "",
       "codeInputPlaceholder": "Ingrese el código aquí",
       "minLengthError": "El código debe contener al menos 6 caracteres",
-      "confirmButton": "Confirmar {{destination}}"
+      "confirmButton": "Confirmar {destination}"
     },
     "ForceUpdateModal": {
-      "title": "Actualmente está en la versión {{currentAppVersion}}.\n Por favor, actualice a la última versión {{configVersion}}.",
+      "title": "Actualmente está en la versión {currentAppVersion}.\n Por favor, actualice a la última versión {configVersion}.",
       "actionButton": "Actualizar aplicación"
     },
     "HomeFeedScreen": {
@@ -263,16 +263,16 @@
       "headerTitleReviewRequestFlow": "Solicitudes pendientes",
       "headerTitleReviewInvitesFlow": "Invitaciones pendientes",
       "basicJoinRequestToast": "Se ha enviado tu solicitud para unirte",
-      "successfullCommunityJoinToast": "Te has unido con éxito a {{communityName}}",
-      "openRolesJoinedToast": "Te has unido a ${commName} y solicitado los roles {{requestedRoleNames}}",
+      "successfullCommunityJoinToast": "Te has unido con éxito a {communityName}",
+      "openRolesJoinedToast": "Te has unido a ${commName} y solicitado los roles {requestedRoleNames}",
       "requestRejectedToast": "Solicitud rechazada",
       "approveRequestToast": "¡Aprobado con éxito!",
-      "joinCommunityRequestToast": "Su solicitud para unirse {{communityName}}, ha sido enviada",
+      "joinCommunityRequestToast": "Su solicitud para unirse {communityName}, ha sido enviada",
       "roleAddedToast": "¡Rol agregado!",
       "roleRemovedToast": "¡Rol eliminado!",
-      "rolesUpdatedToToast": "Roles actualizados a {{rolesNames}}",
+      "rolesUpdatedToToast": "Roles actualizados a {rolesNames}",
       "yourInvitationSentToast": "Tu invitación ha sido enviada con éxito",
-      "communityLeft": "Has dejado la comunidad {{communityName}}",
+      "communityLeft": "Has dejado la comunidad {communityName}",
       "rejectedToast": "¡Rechazado!",
       "approveButton": "Aprobar",
       "rejectButton": "Rechazar",
@@ -397,7 +397,7 @@
       "requestsTab": "Requests",
       "invitesTab": "Invites",
       "unregInvitesTab": "Unreg. Invites",
-      "filteredMembers": "{{count}} miembros filtrados"
+      "filteredMembers": "{count} miembros filtrados"
     },
     "UpdateCommunityScreen": {
       "headerTitle": "Actualizar comunidad",
@@ -534,8 +534,8 @@
       "deletePostAlertTitle": "¿Estás seguro?",
       "deletePostAlertMessage": "Puedes deshacerlo en cualquier momento",
       "deletePostAlertSuccessToast": "¡Has eliminado exitosamente!",
-      "unarchivePostAlertMessage": "Puedes {{action}} la publicación en cualquier momento",
-      "unarchivePostAlertSuccessToast": "¡Has {{action}} exitosamente!",
+      "unarchivePostAlertMessage": "Puedes {action} la publicación en cualquier momento",
+      "unarchivePostAlertSuccessToast": "¡Has {action} exitosamente!",
       "viewPostItem": {
         "title": "Ver publicación",
         "description": ""
@@ -582,9 +582,9 @@
       "title": "Ajustes"
     },
     "ChangeEmailPhoneScreen": {
-      "enterdifferentEmailPhoneError": "Ingresa un {{type}} diferente.",
-      "emailPhoneUpdatedMessage": "Tu {{type}} ha sido actualizado con éxito.",
-      "emailPhoneAlreadyInuseError": "Este {{type}} ya está en uso. Por favor, intenta con otro."
+      "enterdifferentEmailPhoneError": "Ingresa un {type} diferente.",
+      "emailPhoneUpdatedMessage": "Tu {type} ha sido actualizado con éxito.",
+      "emailPhoneAlreadyInuseError": "Este {type} ya está en uso. Por favor, intenta con otro."
     },
     "ChooseMediaPickerSheet": {
       "title": "Hoose media",

@@ -158,23 +158,23 @@
       "resetPassButton": "Reset password",
       "checkEmailTitle": "Check your email",
       "checkSmsTitle": "Check your SMS",
-      "checkSubTitle1": "We've sent you a confirmation code. Please check your {{fieldType}} ({{username}}) and confirm it.",
+      "checkSubTitle1": "We've sent you a confirmation code. Please check your {fieldType} ({username}) and confirm it.",
       "passwordSuccessText": "Password reset successfull, please sign in now.",
       "resendCodeButton": "Resend code",
       "resendCountDownTitle": "Resend code in:",
       "doneResettingText": "Done resetting?"
     },
     "ConfirmOTPScreen": {
-      "title": "Check Your {{destination}}",
-      "subTitle1": "We've sent you a confirmation code. Please check your email ({{destination}}) and enter the code below.",
-      "subTitle2": " We've sent you a confirmation code. Please check your text messages ({{destination}}) and enter the code below.",
+      "title": "Check Your {destination}",
+      "subTitle1": "We've sent you a confirmation code. Please check your email ({destination}) and enter the code below.",
+      "subTitle2": " We've sent you a confirmation code. Please check your text messages ({destination}) and enter the code below.",
       "codeInputTitle": "",
       "codeInputPlaceholder": "Enter code here",
       "minLengthError": "The code must contain at least 6 character(s)",
-      "confirmButton": "Confirm {{destination}}"
+      "confirmButton": "Confirm {destination}"
     },
     "ForceUpdateModal": {
-      "title": "You are currently on version {{currentAppVersion}}.\n Please update to the latest version {{configVersion}}.",
+      "title": "You are currently on version {currentAppVersion}.\n Please update to the latest version {configVersion}.",
       "actionButton": "Update App"
     },
     "HomeFeedScreen": {
@@ -276,16 +276,16 @@
       "headerTitleReviewRequestFlow": "Pending Requests",
       "headerTitleReviewInvitesFlow": "Pending Invites",
       "basicJoinRequestToast": "Your request to join has been sent",
-      "successfullCommunityJoinToast": "You have successfully joined {{communityName}}",
-      "openRolesJoinedToast": "You have joined {{commName}} and requested {{requestedRoleNames}} role(s)",
+      "successfullCommunityJoinToast": "You have successfully joined {communityName}",
+      "openRolesJoinedToast": "You have joined {commName} and requested {requestedRoleNames} role(s)",
       "requestRejectedToast": "Request rejected",
       "approveRequestToast": "Successfully approved!",
-      "joinCommunityRequestToast": "Your request to join {{communityName}} has been sent",
+      "joinCommunityRequestToast": "Your request to join {communityName} has been sent",
       "roleAddedToast": "Role added!",
       "roleRemovedToast": "Role removed!",
-      "rolesUpdatedToToast": "Roles updated to {{rolesNames}}",
+      "rolesUpdatedToToast": "Roles updated to {rolesNames}",
       "yourInvitationSentToast": "Your invitation has been successfully sent",
-      "communityLeft": "You left {{communityName}} community",
+      "communityLeft": "You left {communityName} community",
       "rejectedToast": "Rejected!",
       "approveButton": "Approve",
       "rejectButton": "Reject",
@@ -421,7 +421,7 @@
       "invitesTab": "Invites",
       "unregInvitesTab": "Unreg. Invites",
       "updateRoles": "Update Roles",
-      "filteredMembers": "{{count}} filtered members"
+      "filteredMembers": "{count} filtered members"
     },
     "UpdateCommunityScreen": {
       "headerTitle": "Update community",
@@ -436,7 +436,7 @@
       "unarchivePostAlertSuccessToast": "You have successfully unarchived!",
       "draftEmptyNameLabel": "There is no text to display as a name",
       "draftEmptyContentLabel": "There is no text to display as a content",
-      "emptyMessage": "No {{labelKeys}} posts"
+      "emptyMessage": "No {labelKeys} posts"
     },
     "ArchivedPostScreen": {
       "headerTitle": "Archived Posts"
@@ -560,8 +560,8 @@
       "deletePostAlertTitle": "Are you sure?",
       "deletePostAlertMessage": "You can undone anytime you want",
       "deletePostAlertSuccessToast": "You have successfully deleted!",
-      "unarchivePostAlertMessage": "You can {{action}} the post anytime",
-      "unarchivePostAlertSuccessToast": "You have successfully {{action}}!",
+      "unarchivePostAlertMessage": "You can {action} the post anytime",
+      "unarchivePostAlertSuccessToast": "You have successfully {action}!",
       "viewPostItem": {
         "title": "View post",
         "description": ""
@@ -608,9 +608,9 @@
       "title": "Settings"
     },
     "ChangeEmailPhoneScreen": {
-      "enterdifferentEmailPhoneError": "Enter a different {{type}}",
-      "emailPhoneUpdatedMessage": "Your {{type}} has been successfully updated",
-      "emailPhoneAlreadyInuseError": "This {{type}} is already in use. Please try another one."
+      "enterdifferentEmailPhoneError": "Enter a different {type}",
+      "emailPhoneUpdatedMessage": "Your {type} has been successfully updated",
+      "emailPhoneAlreadyInuseError": "This {type} is already in use. Please try another one."
     },
     "ChooseMediaPickerSheet": {
       "title": "Choose media",
