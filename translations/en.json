@@ -84,7 +84,9 @@
       "notifications": "Notifications",
       "createPost": "Create Post",
       "noResults": "No results",
-      "activity": "Activity"
+      "activity": "Activity",
+      "createAccount": "Create Account",
+      "loginToExistingAccount": "Login to existing account"
     },
     "OnboardingScreen": {
       "step1": {

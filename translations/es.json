@@ -73,7 +73,9 @@
       "country": "País",
       "city": "Ciudad",
       "state": "Estado",
-      "zipCode": "Código postal"
+      "zipCode": "Código postal",
+      "createAccount": "Crear cuenta",
+      "loginToExistingAccount": "Iniciar sesión en una cuenta existente",
     },
     "OnboardingScreen": {
       "step1": {
