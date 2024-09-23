@@ -700,5 +700,11 @@
       "genderTitle": "Gender",
       "subcommunitiesTitle": "Subcommunities"
     }
+  },
+  "UnsubscribePage": {
+    "title": "Unsubscribe",
+    "description": "Te has dado de baja con éxito.",
+    "backToHome": "Volver a la página de inicio",
+    "error": "Ha ocurrido un error al intentar darte de baja. {error}"
   }
 }

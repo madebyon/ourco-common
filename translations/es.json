@@ -657,6 +657,12 @@
       "ethnicityTitle": "Etnicidad",
       "genderTitle": "Género",
       "subcommunitiesTitle": "Subcomunidades"
+    },
+    "UnsubscribePage": {
+      "title": "Desuscribirse",
+      "description": "Te has dado de baja con éxito. Ya no recibirás notificaciones de esta comunidad.",
+      "backToHome": "Back to home",
+      "error": "Something went wrong. Please try again. Error: {error}"
     }
   }
 }
