@@ -702,9 +702,9 @@
     },
     "UnsubscribePage": {
       "title": "Unsubscribe",
-      "description": "Te has dado de baja con éxito.",
-      "backToHome": "Volver a la página de inicio",
-      "error": "Ha ocurrido un error al intentar darte de baja. {error}"
+      "description": "You have successfully unsubscribed.",
+      "backToHome": "Back to home",
+      "error": "Something went wrong. Please try again. Error: {error}"
     }
   }
 }

@@ -660,9 +660,9 @@
     },
     "UnsubscribePage": {
       "title": "Desuscribirse",
-      "description": "Te has dado de baja con éxito. Ya no recibirás notificaciones de esta comunidad.",
-      "backToHome": "Back to home",
-      "error": "Something went wrong. Please try again. Error: {error}"
+      "description": "Te has dado de baja con éxito.",
+      "backToHome": "Volver a la página de inicio",
+      "error": "Algo salió mal. Por favor, inténtalo de nuevo. {error}"
     }
   }
 }
