@@ -174,7 +174,7 @@
       "pollAndMembersTitle": {
         "part1": "Actualmente hay",
         "part2": "encuestas",
-        "part3": "siendo discutidas por",
+        "part3": "siendo discutidas por ",
         "part4": "miembros."
       },
       "pendingRequests": "solicitudes pendientes",
@@ -226,7 +226,7 @@
       "searchDropdownTitle": "Búsquedas recientes",
       "communityTabTitle": "Comunidades",
       "memberTabTitle": "Miembros",
-      "postTabTitle": "Posts",
+      "postTabTitle": "Publicación",
       "emptyMessage": "No hay resultados"
     },
     "ProfileFeedScreen": {
@@ -337,9 +337,9 @@
       "setTime": "Fijar tiempo",
       "next": "Siguiente",
       "saveDraft": "Guardar borrador",
-      "successfullyPosted": "Your post successfully updated",
-      "successfullyUpdated": "Your post successfully updated",
-      "atLeastOneOptionRequired": "You must have at least one option",
+      "successfullyPosted": "Tu publicación se ha enviado con éxito",
+      "successfullyUpdated": "Tu publicación se ha actualizado con éxito",
+      "atLeastOneOptionRequired": "Se requiere al menos una opción",
       "notScheduledPublishedPost": "No puedes programar una publicación que ya ha sido publicada"
     },
     "CratePostRolesScreen": {
@@ -654,13 +654,28 @@
       "emptyMessage": "No hay generaciones para mostrar"
     },
     "Filters": {
+      "title": "Filters",
       "postStatusTitle": "Estado de la publicación",
       "beforeDateTitle": "Antes de la fecha",
       "rolesTitle": "Roles",
       "ageTitle": "Edad",
       "ethnicityTitle": "Etnicidad",
       "genderTitle": "Género",
-      "subcommunitiesTitle": "Subcomunidades"
+      "subcommunitiesTitle": "Subcomunidades",
+      "openItem": "Abierto",
+      "closedItem": "Cerrado",
+      "archivedItem": "Archivado",
+      "dateTimePlaceholder": "Fecha y hora",
+      "femaleOption": "Femenino",
+      "maleOption": "Masculino",
+      "nonBinaryOption": "No binario",
+      "selfIdentifiedOption": "Identificado por uno mismo",
+      "otherOption": "Otro",
+      "asianOption": "Asiático",
+      "blackOption": "Black",
+      "whiteOption": "Blanco",
+      "latinOption": "Latino",
+      "nativeAmericanOption": "Nativo americano"
     },
     "UnsubscribePage": {
       "title": "Desuscribirse",

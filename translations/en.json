@@ -692,13 +692,28 @@
       "emptyMessage": "No generations to display"
     },
     "Filters": {
+      "title": "Filters",
       "postStatusTitle": "Post status",
       "beforeDateTitle": "Before Date",
       "rolesTitle": "Roles",
       "ageTitle": "Age",
       "ethnicityTitle": "Ethnicity",
       "genderTitle": "Gender",
-      "subcommunitiesTitle": "Subcommunities"
+      "subcommunitiesTitle": "Subcommunities",
+      "openItem": "Open",
+      "closedItem": "Closed",
+      "archivedItem": "Archived",
+      "dateTimePlaceholder": "Date & Time",
+      "femaleOption": "Female",
+      "maleOption": "Male",
+      "nonBinaryOption": "Non-binary",
+      "selfIdentifiedOption": "Self-identified",
+      "otherOption": "Other",
+      "asianOption": "Asian",
+      "blackOption": "Black",
+      "whiteOption": "White",
+      "latinOption": "Latin",
+      "nativeAmericanOption": "Native American"
     },
     "UnsubscribePage": {
       "title": "Unsubscribe",
