@@ -375,7 +375,7 @@
       "invites": "Invitaciones",
       "requests": "Solicitudes",
       "notificationSettings": "Configuraciones de notificaciones",
-      "contactSupportAdvisor": "Contactar asesor de soporte",
+      "contactSupportAdvisor": "Contactar asesor de ayuda",
       "signOut": "Cerrar sesión",
       "deleteAccount": "Eliminar cuenta",
       "cantUpdateProfileToast": "No pudimos actualizar tu perfil. Algo salió mal.",
@@ -448,7 +448,7 @@
       "deleteCommunityAlertTitle": "Are you sure?",
       "deleteCommunityAlertMessage": "This action cannot be undone",
       "getSupportItem": {
-        "title": "Obtener soporte",
+        "title": "Obtener ayuda",
         "description": "¿Preguntas? Contacta a los desarrolladores de la aplicación"
       },
       "copyItem": {
