@@ -335,7 +335,11 @@
       "sectionFABPoll": "Encuesta",
       "selectCommunityTitle": "Seleccionar comunidad",
       "setTime": "Fijar tiempo",
+      "next": "Siguiente",
       "saveDraft": "Guardar borrador",
+      "successfullyPosted": "Your post successfully updated",
+      "successfullyUpdated": "Your post successfully updated",
+      "atLeastOneOptionRequired": "You must have at least one option",
       "notScheduledPublishedPost": "No puedes programar una publicación que ya ha sido publicada"
     },
     "CratePostRolesScreen": {
@@ -663,6 +667,11 @@
       "description": "Te has dado de baja con éxito.",
       "backToHome": "Volver a la página de inicio",
       "error": "Algo salió mal. Por favor, inténtalo de nuevo. {error}"
+    },
+     "TopInterestsSection": {
+        "title": "Intereses principales",
+        "communityTitle": "Intereses de la comunidad",
+        "emptyMessage": "No hay intereses principales para mostrar"
     }
   }
 }

@@ -705,6 +705,11 @@
       "description": "You have successfully unsubscribed.",
       "backToHome": "Back to home",
       "error": "Something went wrong. Please try again. Error: {error}"
+    },
+    "TopInterestsSection": {
+        "title": "Top Interests",
+        "communityTitle": "Community Interests",
+        "emptyMessage": "No interests to display"
     }
   }
 }
