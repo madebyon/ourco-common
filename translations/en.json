@@ -713,7 +713,10 @@
       "blackOption": "Black",
       "whiteOption": "White",
       "latinOption": "Latin",
-      "nativeAmericanOption": "Native American"
+      "nativeAmericanOption": "Native American",
+      "activityTitle": "Activity",
+      "activeOption": "Active",
+      "inactiveOption": "Inactive"
     },
     "UnsubscribePage": {
       "title": "Unsubscribe",
