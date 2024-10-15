@@ -495,7 +495,7 @@
         "description": ""
       },
       "inviteMembersItem": {
-        "title": "Invite Member",
+        "title": "Invite member",
         "description": ""
       },
       "contactAdminItem": {
@@ -519,7 +519,7 @@
         "description": ""
       },
       "editCommunityItem": {
-        "title": "Edit Community Profile",
+        "title": "Edit community Profile",
         "description": ""
       },
       "manageCommunitiesItem": {
