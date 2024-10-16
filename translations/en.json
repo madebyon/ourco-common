@@ -568,6 +568,10 @@
         "title": "View post",
         "description": ""
       },
+      "viewAnalyticsItem": {
+        "title": "View analytics",
+        "description": ""
+      },
       "copyItem": {
         "title": "Copy post URL",
         "description": "",

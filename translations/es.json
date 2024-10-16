@@ -546,6 +546,10 @@
         "title": "Ver publicación",
         "description": ""
       },
+      "viewAnalyticsItem": {
+        "title": "Ver análisis",
+        "description": ""
+      },
       "copyItem": {
         "title": "Copiar URL de la publicación",
         "description": "",
