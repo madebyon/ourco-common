@@ -75,7 +75,8 @@
       "state": "Estado",
       "zipCode": "Código postal",
       "createAccount": "Crear cuenta",
-      "loginToExistingAccount": "Iniciar sesión en una cuenta existente"
+      "loginToExistingAccount": "Iniciar sesión en una cuenta existente",
+      "leave": "Dejar"
     },
     "OnboardingScreen": {
       "step1": {

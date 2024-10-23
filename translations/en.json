@@ -86,7 +86,8 @@
       "noResults": "No results",
       "activity": "Activity",
       "createAccount": "Create Account",
-      "loginToExistingAccount": "Login to existing account"
+      "loginToExistingAccount": "Login to existing account",
+      "leave": "Leave"
     },
     "OnboardingScreen": {
       "step1": {
