@@ -733,6 +733,12 @@
         "title": "Top Interests",
         "communityTitle": "Community Interests",
         "emptyMessage": "No interests to display"
+    },
+    "EngagementOverTime": {
+        "title": "Engagement",
+        "emptyMessage": "No engagement data to display",
+        "info": "This graph plots the overall engagement of your community on a monthly basis, going back 24 months. Monthly engagement scores are calculated by combining the average engagement scores of posts and members in the community."
+      }
     }
   }
 }

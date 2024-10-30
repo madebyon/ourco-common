@@ -695,6 +695,11 @@
         "title": "Intereses principales",
         "communityTitle": "Intereses de la comunidad",
         "emptyMessage": "No hay intereses principales para mostrar"
+    },
+    "EngagementOverTime": {
+      "title": "Engagement",
+      "emptyMessage": "No hay datos de engagement para mostrar",
+      "info": "Este gráfico traza el engagement general de tu comunidad en una base mensual, retrocediendo 24 meses. Las puntuaciones mensuales de engagement se calculan combinando las puntuaciones medias de engagement de las publicaciones y los miembros de la comunidad."
     }
   }
 }
