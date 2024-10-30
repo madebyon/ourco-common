@@ -700,6 +700,10 @@
       "title": "Engagement",
       "emptyMessage": "No hay datos de engagement para mostrar",
       "info": "Este gráfico traza el engagement general de tu comunidad en una base mensual, retrocediendo 24 meses. Las puntuaciones mensuales de engagement se calculan combinando las puntuaciones medias de engagement de las publicaciones y los miembros de la comunidad."
+    },
+    "CommunitiesNearYou": {
+        "title": "Comunidades cerca de ti",
+        "emptyMessage": "No hay comunidades cerca de ti"
     }
   }
 }
