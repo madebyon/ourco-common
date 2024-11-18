@@ -265,7 +265,7 @@
     },
     "SelectCommunityScreen": {
       "headerTitle": "Select communities",
-      "subTitle": "You can add more communities later on, too",
+      "subTitle": "Please select one community to continue, you can add more communities later on.",
       "topRightButton": "Select",
       "noCommunitiesOrRolesMessage": "You must select at least one community and role.",
       "viewPendingRequests": "View Pending Requests",
