@@ -32,6 +32,8 @@
       "archive": "archivar",
       "unarchive": "desarchivado",
       "archived": "archivado",
+      "draft": "borrador",
+      "scheduled": "programado",
       "unarchived": "anarchiavado",
       "clearAll": "Limpiar todo",
       "subCommunities": "Subcomunidades",
