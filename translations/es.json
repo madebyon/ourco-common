@@ -344,7 +344,9 @@
       "successfullyPosted": "Tu publicación se ha enviado con éxito",
       "successfullyUpdated": "Tu publicación se ha actualizado con éxito",
       "atLeastOneOptionRequired": "Se requiere al menos una opción",
-      "notScheduledPublishedPost": "No puedes programar una publicación que ya ha sido publicada"
+      "notScheduledPublishedPost": "No puedes programar una publicación que ya ha sido publicada",
+      "postScheduledMessage": "La publicación ha sido programada",
+      "postDraftMessage": "La publicación se ha guardado como borrador"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"

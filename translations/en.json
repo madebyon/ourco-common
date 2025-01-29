@@ -363,7 +363,9 @@
       "successfullyPosted": "Your post successfully updated",
       "successfullyUpdated": "Your post successfully updated",
       "atLeastOneOptionRequired": "You must have at least one option",
-      "notScheduledPublishedPost": "You can't schedule a post that has already been published"
+      "notScheduledPublishedPost": "You can't schedule a post that has already been published",
+      "postScheduledMessage": "Post has been scheduled",
+      "postDraftMessage": "Post saved to draft"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
