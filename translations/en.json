@@ -205,6 +205,7 @@
     "Post": {
       "goToCommunityPage": "Go to Community Page",
       "copyPostUrl": "Copy post URL",
+      "copyEmbedCode": "Copy embed code",
       "editPost": "Edit Post",
       "duplicatePost": "Duplicate Post",
       "archivePost": "Archive Post",
@@ -343,6 +344,7 @@
       "sliderLeftInputPlaceholder": "Slider 1",
       "sliderRightInputPlaceholder": "Slider 2",
       "allowAnonRespTitle": "Allow anonymous responses",
+      "publicPollTitle": "Public poll",
       "showMyNameTitle": "Show my name",
       "allowCommentsTitle": "Allow comments",
       "sendNotificationsTitle": "Send notifications",

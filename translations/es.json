@@ -195,6 +195,7 @@
     "Post": {
       "goToCommunityPage": "Ir a la página de la comunidad",
       "copyPostUrl": "Copiar URL de la publicación",
+      "copyEmbedCode": "Copiar código de inserción",
       "editPost": "Editar publicación",
       "duplicatePost": "Duplicar publicación",
       "archivePost": "Archivar publicación",
@@ -325,6 +326,7 @@
       "sliderLeftInputPlaceholder": "Deslizador 1",
       "sliderRightInputPlaceholder": "Deslizador 2",
       "allowAnonRespTitle": "Permitir respuestas anónimas",
+      "publicPollTitle": "Encuesta pública",
       "showMyNameTitle": "Mostrar mi nombre",
       "allowCommentsTitle": "Permitir comentarios",
       "sendNotificationsTitle": "Enviar notificaciones",
