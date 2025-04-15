@@ -415,7 +415,8 @@
       "pendingRequests": "Pending requests",
       "latest": "Latest",
       "insights": "Insights",
-      "communityInterests": "Community Interests"
+      "communityInterests": "Community Interests",
+      "leaveCommunityAlertMessage": "Are you sure you want to leave this Community?"
     },
     "CommunityMembersScreen": {
       "headerTitle": "Members",

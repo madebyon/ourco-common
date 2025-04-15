@@ -261,6 +261,7 @@
       "subTitle": "También puedes agregar más comunidades más tarde",
       "topRightButton": "Seleccionar",
       "noCommunitiesOrRolesMessage": "Debes seleccionar al menos una comunidad y un rol.",
+      "leaveCommunityAlertMessage": "¿Estás seguro de que quieres dejar esta comunidad?",
       "latest": "Latest",
       "insights": "Insights"
     },
@@ -396,7 +397,8 @@
       "pendingRequests": "Solicitudes pendientes",
       "latest": "Último",
       "insights": "Insights",
-      "communityInterests": "Intereses de la comunidad"
+      "communityInterests": "Intereses de la comunidad",
+      "leaveCommunityAlertMessage": "¿Estás seguro de que quieres dejar esta comunidad?"
     },
     "CommunityMembersScreen": {
       "headerTitle": "Miembros",
