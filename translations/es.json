@@ -349,7 +349,8 @@
       "atLeastOneOptionRequired": "Se requiere al menos una opción",
       "notScheduledPublishedPost": "No puedes programar una publicación que ya ha sido publicada",
       "postScheduledMessage": "La publicación ha sido programada",
-      "postDraftMessage": "La publicación se ha guardado como borrador"
+      "postDraftMessage": "La publicación se ha guardado como borrador",
+      "pollMinimumOptionsErrorMessage": "La encuesta debe tener al menos 2 opciones"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"

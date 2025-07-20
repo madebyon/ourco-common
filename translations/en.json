@@ -367,7 +367,8 @@
       "atLeastOneOptionRequired": "You must have at least one option",
       "notScheduledPublishedPost": "You can't schedule a post that has already been published",
       "postScheduledMessage": "Post has been scheduled",
-      "postDraftMessage": "Post saved to draft"
+      "postDraftMessage": "Post saved to draft",
+      "pollMinimumOptionsErrorMessage": "Poll must have at least 2 options"
     },
     "CratePostRolesScreen": {
       "headerTitle": "Roles"
