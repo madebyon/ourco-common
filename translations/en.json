@@ -626,7 +626,8 @@
     "ChangeEmailPhoneScreen": {
       "enterdifferentEmailPhoneError": "Enter a different {type}",
       "emailPhoneUpdatedMessage": "Your {type} has been successfully updated",
-      "emailPhoneAlreadyInuseError": "This {type} is already in use. Please try another one."
+      "emailPhoneAlreadyInuseError": "This {type} is already in use. Please try another one.",
+      "changeYour": "Change your"
     },
     "ChooseMediaPickerSheet": {
       "title": "Choose media",
