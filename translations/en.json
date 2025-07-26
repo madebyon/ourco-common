@@ -243,7 +243,8 @@
       "memberTabTitle": "Members",
       "postTabTitle": "Posts",
       "emptyMessage": "No results",
-      "searchPlaceholder": "Search"
+      "searchPlaceholder": "Search",
+      "noRecentSearches": "No recent searches"
     },
     "ProfileFeedScreen": {
       "communitiesLink": "Communities"

@@ -232,7 +232,9 @@
       "communityTabTitle": "Comunidades",
       "memberTabTitle": "Miembros",
       "postTabTitle": "Publicación",
-      "emptyMessage": "No hay resultados"
+      "emptyMessage": "No hay resultados",
+      "searchPlaceholder": "Buscar",
+      "noRecentSearches": "No hay búsquedas recientes"
     },
     "ProfileFeedScreen": {
       "communitiesLink": "Comunidades"
