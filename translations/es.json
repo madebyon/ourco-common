@@ -696,7 +696,11 @@
       "nativeAmericanOption": "Nativo Americano",
       "activityTitle": "Actividad",
       "activeOption": "Activo",
-      "inactiveOption": "Inactivo"
+      "inactiveOption": "Inactivo",
+      "userStatusTitle": "Estado del Usuario",
+      "registeredUsers": "Registrados",
+      "unregisteredUsers": "No registrados",
+      "allUsers": "Todos los usuarios"
     },
     "UnsubscribePage": {
       "title": "Desuscribirse",

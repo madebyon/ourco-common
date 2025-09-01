@@ -732,7 +732,11 @@
       "nativeAmericanOption": "Native American",
       "activityTitle": "Activity",
       "activeOption": "Active",
-      "inactiveOption": "Inactive"
+      "inactiveOption": "Inactive",
+      "userStatusTitle": "User Status",
+      "registeredUsers": "Registered",
+      "unregisteredUsers": "Unregistered",
+      "allUsers": "All users"
     },
     "UnsubscribePage": {
       "title": "Unsubscribe",
