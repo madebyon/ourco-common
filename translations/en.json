@@ -90,7 +90,8 @@
       "createAccount": "Create Account",
       "loginToExistingAccount": "Login to existing account",
       "leave": "Leave",
-      "unspecified": "Unspecified"
+      "unspecified": "Unspecified",
+      "unregistered": "Unregistered"
     },
     "OnboardingScreen": {
       "step1": {

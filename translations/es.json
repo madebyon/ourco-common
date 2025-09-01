@@ -700,7 +700,8 @@
       "userStatusTitle": "Estado del Usuario",
       "registeredUsers": "Registrados",
       "unregisteredUsers": "No registrados",
-      "allUsers": "Todos los usuarios"
+      "allUsers": "Todos los usuarios",
+      "unregistered": "No registrados"
     },
     "UnsubscribePage": {
       "title": "Desuscribirse",
